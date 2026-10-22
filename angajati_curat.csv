@@ -1,0 +1,481 @@
+﻿id_angajat,nume,prenume,gen,data_nasterii,data_angajarii,id_departament,functie,nivel,oras,tip_contract,salariu_brut_lunar,status,data_plecarii,motiv_plecare,email,nume_departament,varsta,vechime_ani,grupa_vechime,plecat
+1081,Voicu,Bianca,F,1980-06-09,2018-01-20,60,Manager Suport Clienți,Manager,București,Full-time,"8,000",Plecat,2023-03-21,Relația cu managerul,bianca.voicu081@technova.ro,Suport Clienți,45,5.2,> 5 ani,1
+1074,Nistor,Cristian,M,1998-03-08,2024-07-24,60,Operator Call Center,Mid,Timișoara,Full-time,"4,100",Activ,,,cristian.nistor074@technova.ro,Suport Clienți,27,1.4,1–3 ani,0
+1135,Voicu,Radu,M,1975-01-07,2018-05-28,70,Coordonator Logistică,Senior,București,Part-time,"7,800",Activ,,,radu.voicu135@technova.ro,Operațiuni,50,7.6,> 5 ani,0
+1473,Popescu,Florin,M,1993-09-21,2019-07-20,10,Tester QA,Junior,Cluj-Napoca,Full-time,"6,100",Activ,,,florin.popescu473@technova.ro,IT,32,6.4,> 5 ani,0
+1145,Constantin,Florin,M,1994-04-28,2022-09-04,10,Analist IT,Senior,București,Full-time,"14,500",Activ,,,florin.constantin145@technova.ro,IT,31,3.3,3–5 ani,0
+1038,Constantin,Simona,F,1990-06-15,2017-07-13,60,Manager Suport Clienți,Manager,Iași,Full-time,"8,000",Activ,,,simona.constantin038@technova.ro,Suport Clienți,35,8.5,> 5 ani,0
+1167,Barbu,Cristian,M,1976-12-28,2025-01-05,30,Content Creator,Mid,București,Part-time,"5,950",Activ,,,cristian.barbu167@technova.ro,Marketing,49,1,1–3 ani,0
+1106,Sandu,Andreea,F,1989-08-03,2024-01-05,20,Manager Vânzări,Manager,București,Full-time,"11,700",Plecat,2025-06-03,Relocare,andreea.sandu106@technova.ro,Vânzări,36,1.4,1–3 ani,1
+1082,Matei,Ana,F,1979-06-09,2019-02-03,70,Coordonator Logistică,Senior,Timișoara,Full-time,"6,300",Activ,,,ana.matei082@technova.ro,Operațiuni,46,6.9,> 5 ani,0
+1282,Preda,Ana,F,1988-06-23,2025-05-15,20,Agent Vânzări,Mid,București,Full-time,"5,650",Activ,,,ana.preda282@technova.ro,Vânzări,37,0.6,< 1 an,0
+1189,Florea,Florin,M,1989-02-21,2019-08-26,50,Contabil,Senior,București,Full-time,"10,200",Activ,,,florin.florea189@technova.ro,Financiar,36,6.3,> 5 ani,0
+1225,Marin,Simona,F,1989-04-23,2018-10-03,70,Manager Operațiuni,Manager,Timișoara,Full-time,"9,550",Activ,,,simona.marin225@technova.ro,Operațiuni,36,7.2,> 5 ani,0
+1133,Constantin,Ana,F,1993-02-06,2020-01-05,60,Specialist Suport,Junior,Iași,Full-time,"2,750",Activ,,,ana.constantin133@technova.ro,Suport Clienți,32,6,> 5 ani,0
+1267,Ionescu,Mihai,M,1989-05-18,2016-11-15,30,Content Creator,Mid,Cluj-Napoca,Full-time,"6,700",Activ,,,mihai.ionescu267@technova.ro,Marketing,36,9.1,> 5 ani,0
+1137,Voicu,Bianca,F,1974-10-07,2025-04-24,30,Content Creator,Senior,București,Part-time,"8,900",Activ,,,bianca.voicu137@technova.ro,Marketing,51,0.7,< 1 an,0
+1365,Stoica,Radu,M,1988-06-22,2023-06-20,70,Coordonator Logistică,Junior,Timișoara,Full-time,"3,200",Activ,,,radu.stoica365@technova.ro,Operațiuni,37,2.5,1–3 ani,0
+1475,Constantin,Bianca,F,1979-12-24,2016-12-20,10,Programator,Senior,București,Full-time,"12,350",Activ,,,bianca.constantin475@technova.ro,IT,46,9,> 5 ani,0
+1028,Oprea,Diana,F,1981-12-23,2020-04-24,70,Coordonator Logistică,Mid,Timișoara,Full-time,"4,550",Activ,,,diana.oprea028@technova.ro,Operațiuni,44,5.7,> 5 ani,0
+1274,Dobre,Simona,F,1990-08-01,2023-01-13,10,Programator,Mid,București,Full-time,"9,200",Activ,,,simona.dobre274@technova.ro,IT,35,3,3–5 ani,0
+1333,Stan,Robert,M,1993-04-26,2020-07-24,60,Specialist Suport,Mid,Iași,Full-time,"4,300",Activ,,,robert.stan333@technova.ro,Suport Clienți,32,5.4,> 5 ani,0
+1345,Marin,Daniel,M,1993-07-01,2017-06-14,20,Agent Vânzări,Junior,București,Full-time,"4,250",Activ,,,daniel.marin345@technova.ro,Vânzări,32,8.5,> 5 ani,0
+1191,Munteanu,Bianca,F,1976-05-05,2024-08-14,40,Specialist HR,Mid,București,Full-time,"6,100",Activ,,,bianca.munteanu191@technova.ro,Resurse Umane,49,1.4,1–3 ani,0
+1322,Stan,Robert,M,1984-02-06,2016-11-15,20,Key Account Manager,Mid,București,Full-time,"5,700",Plecat,2020-12-15,Salariu mai bun în altă parte,robert.stan322@technova.ro,Vânzări,41,4.1,3–5 ani,1
+1403,Popescu,Ionuț,M,1974-07-12,2019-01-27,10,DevOps Engineer,Senior,București,Full-time,"14,650",Activ,,,ionut.popescu403@technova.ro,IT,51,6.9,> 5 ani,0
+1058,Ionescu,Bogdan,M,1977-06-06,2018-08-03,70,Coordonator Logistică,Senior,Timișoara,Full-time,"8,150",Activ,,,bogdan.ionescu058@technova.ro,Operațiuni,48,7.4,> 5 ani,0
+1300,Dinu,Marius,M,2000-06-01,2021-09-28,30,Content Creator,Junior,Cluj-Napoca,Full-time,"3,400",Activ,,,marius.dinu300@technova.ro,Marketing,25,4.3,3–5 ani,0
+1125,Toma,Robert,M,1996-03-07,2018-05-02,70,Specialist Operațiuni,Mid,Timișoara,Full-time,"5,450",Plecat,2022-01-17,Lipsa oportunităților de promovare,robert.toma125@technova.ro,Operațiuni,29,3.7,3–5 ani,1
+1318,Florea,Denisa,F,1981-06-14,2021-04-12,40,Recruiter,Mid,București,Full-time,"5,100",Activ,,,denisa.florea318@technova.ro,Resurse Umane,44,4.7,3–5 ani,0
+1104,Gheorghe,Diana,F,1990-06-23,2019-06-23,50,Analist Financiar,Mid,București,Full-time,"6,300",Activ,,,diana.gheorghe104@technova.ro,Financiar,35,6.5,> 5 ani,0
+1156,Lungu,Vlad,M,1996-06-16,2022-11-23,20,Key Account Manager,Junior,Iași,Full-time,"3,450",Activ,,,vlad.lungu156@technova.ro,Vânzări,29,3.1,3–5 ani,0
+1261,Gheorghe,Alexandra,F,1983-09-08,2021-09-20,60,Specialist Suport,Junior,Iași,Full-time,"2,800",Activ,,,alexandra.gheorghe261@technova.ro,Suport Clienți,42,4.3,3–5 ani,0
+1379,Popescu,Florin,M,1987-01-23,2017-01-29,10,Programator,Junior,București,Full-time,"5,750",Activ,,,florin.popescu379@technova.ro,IT,38,8.9,> 5 ani,0
+1160,Nistor,Roxana,F,1981-11-19,2023-02-11,70,Coordonator Logistică,Junior,Timișoara,Part-time,"3,100",Activ,,,roxana.nistor160@technova.ro,Operațiuni,44,2.9,1–3 ani,0
+1226,Popa,Cristian,M,1995-08-07,2017-02-17,10,Tester QA,Junior,Cluj-Napoca,Full-time,"5,200",Activ,,,cristian.popa226@technova.ro,IT,30,8.9,> 5 ani,0
+1464,Neagu,Marius,M,1991-12-04,2017-12-02,10,Programator,Senior,București,Full-time,"12,350",Activ,,,marius.neagu464@technova.ro,IT,34,8.1,> 5 ani,0
+1389,Dinu,Vlad,M,1995-06-02,2017-07-12,60,Specialist Suport,Mid,Iași,Full-time,"3,900",Activ,,,vlad.dinu389@technova.ro,Suport Clienți,30,8.5,> 5 ani,0
+1339,Nistor,Sorin,M,1985-07-28,2019-05-08,60,Specialist Suport,Mid,Iași,Full-time,"4,250",Activ,,,sorin.nistor339@technova.ro,Suport Clienți,40,6.6,> 5 ani,0
+1229,Constantin,Mihai,M,1975-04-19,2020-03-18,50,Manager Financiar,Manager,Timișoara,Full-time,"14,050",Activ,,,mihai.constantin229@technova.ro,Financiar,50,5.8,> 5 ani,0
+1088,Oprea,Alexandru,M,1986-11-27,2024-11-04,20,Manager Vânzări,Manager,Iași,Full-time,"9,150",Activ,,,alexandru.oprea088@technova.ro,Vânzări,39,1.2,1–3 ani,0
+1117,Dinu,Ana,F,1993-07-11,2016-08-12,10,Tester QA,Junior,București,Full-time,"6,500",Activ,,,ana.dinu117@technova.ro,IT,32,9.4,> 5 ani,0
+1463,Tudor,Ana,F,1983-02-12,2022-06-12,10,DevOps Engineer,Senior,București,Full-time,"12,200",Activ,,,ana.tudor463@technova.ro,IT,42,3.6,3–5 ani,0
+1408,Dumitru,Ionuț,M,1995-11-22,2021-12-17,50,Contabil,Junior,București,Full-time,"4,750",Plecat,2022-12-05,Pensionare,ionut.dumitru408@technova.ro,Financiar,30,1,1–3 ani,1
+1394,Dinu,Roxana,F,1989-04-27,2020-11-24,20,Key Account Manager,Senior,București,Full-time,"8,300",Activ,,,roxana.dinu394@technova.ro,Vânzări,36,5.1,> 5 ani,0
+1154,Barbu,Andrei,M,1995-06-19,2017-07-04,70,Coordonator Logistică,Mid,Timișoara,Full-time,"5,950",Activ,,,andrei.barbu154@technova.ro,Operațiuni,30,8.5,> 5 ani,0
+1138,Ciobanu,Bogdan,M,1984-06-02,2019-05-31,80,Consilier Juridic,Mid,București,Part-time,"7,450",Activ,,,bogdan.ciobanu138@technova.ro,Juridic,41,6.6,> 5 ani,0
+1128,Ionescu,Denisa,F,1994-11-05,2025-08-22,70,Specialist Operațiuni,Senior,Timișoara,Full-time,"7,500",Activ,,,denisa.ionescu128@technova.ro,Operațiuni,31,0.4,< 1 an,0
+1197,Marin,Oana,F,1985-04-22,2024-03-13,10,Programator,Mid,Cluj-Napoca,Full-time,"8,500",Activ,,,,IT,40,1.8,1–3 ani,0
+1127,Cozma,Alexandru,M,1993-06-14,2021-08-17,10,Tester QA,Junior,București,Full-time,"6,650",Activ,,,alexandru.cozma127@technova.ro,IT,32,4.4,3–5 ani,0
+1162,Lungu,Radu,M,1987-08-06,2020-04-29,70,Manager Operațiuni,Manager,Timișoara,Full-time,"10,050",Plecat,2021-03-14,Salariu mai bun în altă parte,radu.lungu162@technova.ro,Operațiuni,38,0.9,< 1 an,1
+1215,Popescu,Ionuț,M,1996-08-05,2023-01-26,70,Coordonator Logistică,Senior,Timișoara,Full-time,"9,150",Activ,,,ionut.popescu215@technova.ro,Operațiuni,29,2.9,1–3 ani,0
+1230,Tudor,Denisa,F,1989-03-24,2021-04-19,20,Key Account Manager,Mid,Cluj-Napoca,Full-time,"5,650",Activ,,,denisa.tudor230@technova.ro,Vânzări,36,4.7,3–5 ani,0
+1352,Dobre,Ioana,F,1991-09-10,2021-07-05,10,DevOps Engineer,Junior,București,Full-time,"6,250",Activ,,,ioana.dobre352@technova.ro,IT,34,4.5,3–5 ani,0
+1335,Ciobanu,Ioana,F,1984-11-18,2020-08-23,40,Recruiter,Senior,București,Full-time,"8,150",Activ,,,ioana.ciobanu335@technova.ro,Resurse Umane,41,5.4,> 5 ani,0
+1017,Popa,Simona,F,1993-02-01,2016-02-19,10,DevOps Engineer,Junior,București,Full-time,"4,850",Activ,,,simona.popa017@technova.ro,IT,32,9.9,> 5 ani,0
+1015,Voicu,Florin,M,1974-03-26,2024-03-12,70,Coordonator Logistică,Senior,Timișoara,Part-time,"7,750",Plecat,2025-08-03,Salariu mai bun în altă parte,florin.voicu015@technova.ro,Operațiuni,51,1.4,1–3 ani,1
+1041,Stan,Ana,F,1987-04-23,2023-02-09,70,Coordonator Logistică,Mid,București,Full-time,"5,250",Plecat,2023-07-24,Lipsa oportunităților de promovare,ana.stan041@technova.ro,Operațiuni,38,0.5,< 1 an,1
+1113,Florea,Cristina,F,1993-09-15,2025-01-29,10,DevOps Engineer,Senior,București,Full-time,"12,000",Activ,,,cristina.florea113@technova.ro,IT,32,0.9,< 1 an,0
+1052,Surdu,Roxana,F,1978-09-12,2023-07-01,60,Operator Call Center,Senior,Iași,Full-time,"6,050",Activ,,,roxana.surdu052@technova.ro,Suport Clienți,47,2.5,1–3 ani,0
+1211,Munteanu,Daniel,M,1987-06-20,2019-12-26,80,Consilier Juridic,Mid,București,Full-time,"7,600",Activ,,,daniel.munteanu211@technova.ro,Juridic,38,6,> 5 ani,0
+1447,Stan,Ioana,F,1982-04-10,2021-03-16,10,DevOps Engineer,Mid,București,Full-time,"7,650",Activ,,,ioana.stan447@technova.ro,IT,43,4.8,3–5 ani,0
+1044,Ciobanu,Cătălin,M,1977-02-15,2024-02-18,50,Manager Financiar,Manager,Iași,Full-time,"12,350",Activ,,,catalin.ciobanu044@technova.ro,Financiar,48,1.9,1–3 ani,0
+1291,Tudor,Cristian,M,1981-10-18,2016-09-17,60,Operator Call Center,Senior,Iași,Full-time,"6,900",Plecat,2020-08-03,Echilibru viață-muncă,cristian.tudor291@technova.ro,Suport Clienți,44,3.9,3–5 ani,1
+1287,Rusu,Ionuț,M,1993-01-05,2016-04-02,10,Programator,Junior,București,Full-time,"7,500",Activ,,,ionut.rusu287@technova.ro,IT,32,9.7,> 5 ani,0
+1329,Oprea,Ionuț,M,1989-11-06,2020-05-07,50,Analist Financiar,Senior,Iași,Full-time,"9,400",Plecat,2022-03-06,Nespecificat,ionut.oprea329@technova.ro,Financiar,36,1.8,1–3 ani,1
+1244,Dobre,Radu,M,1980-08-15,2016-10-26,60,Operator Call Center,Senior,București,Part-time,"6,850",Plecat,2018-01-20,Relocare,radu.dobre244@technova.ro,Suport Clienți,45,1.2,1–3 ani,1
+1194,Popa,Cristian,M,1986-01-09,2023-04-30,50,Analist Financiar,Mid,Iași,Full-time,"6,150",Activ,,,cristian.popa194@technova.ro,Financiar,39,2.7,1–3 ani,0
+1067,Matei,Ion,M,1996-08-28,2021-10-05,10,Tester QA,Junior,București,Full-time,"6,200",Activ,,,ion.matei067@technova.ro,IT,29,4.2,3–5 ani,0
+1205,Surdu,Radu,M,1980-11-02,2024-11-03,60,Specialist Suport,Junior,Cluj-Napoca,Full-time,"2,650",Activ,,,radu.surdu205@technova.ro,Suport Clienți,45,1.2,1–3 ani,0
+1270,Dobre,Roxana,F,1986-02-24,2025-01-11,60,Specialist Suport,Senior,Iași,Full-time,"5,900",Plecat,2025-08-07,Lipsa oportunităților de promovare,roxana.dobre270@technova.ro,Suport Clienți,39,0.6,< 1 an,1
+1440,Dinu,Elena,F,1978-01-11,2017-06-03,70,Manager Operațiuni,Manager,București,Part-time,"11,300",Activ,,,elena.dinu440@technova.ro,Operațiuni,47,8.6,> 5 ani,0
+1306,Oprea,Irina,F,1977-05-27,2022-05-10,60,Specialist Suport,Mid,Iași,Part-time,"4,200",Activ,,,irina.oprea306@technova.ro,Suport Clienți,48,3.6,3–5 ani,0
+1016,Nistor,Irina,F,1984-11-05,2016-08-27,20,Agent Vânzări,Junior,București,Full-time,"3,600",Activ,,,irina.nistor016@technova.ro,Vânzări,41,9.3,> 5 ani,0
+1140,Matei,Ionuț,M,1978-01-24,2019-05-17,10,Tester QA,Senior,București,Full-time,"14,200",Plecat,2022-02-23,Relația cu managerul,ionut.matei140@technova.ro,IT,47,2.8,1–3 ani,1
+1102,Ene,Bogdan,M,1976-09-15,2017-01-01,70,Coordonator Logistică,Senior,Timișoara,Full-time,"8,150",Activ,,,bogdan.ene102@technova.ro,Operațiuni,49,9,> 5 ani,0
+1131,Cozma,Raluca,F,1990-07-11,2018-01-24,70,Coordonator Logistică,Junior,Timișoara,Full-time,"3,650",Activ,,,raluca.cozma131@technova.ro,Operațiuni,35,7.9,> 5 ani,0
+1359,Dumitru,Oana,F,1997-01-27,2017-05-03,10,Programator,Junior,București,Full-time,"6,400",Activ,,,oana.dumitru359@technova.ro,IT,28,8.7,> 5 ani,0
+1068,Munteanu,Ioana,F,1982-10-16,2021-02-28,30,Specialist Marketing,Mid,București,Full-time,"5,750",Activ,,,ioana.munteanu068@technova.ro,Marketing,43,4.8,3–5 ani,0
+1204,Munteanu,Simona,F,1998-02-20,2020-01-25,30,Content Creator,Junior,Cluj-Napoca,Full-time,"3,550",Plecat,2021-08-20,Relația cu managerul,simona.munteanu204@technova.ro,Marketing,27,1.6,1–3 ani,1
+1452,Dinu,Denisa,F,1993-10-01,2016-08-07,10,Tester QA,Senior,București,Full-time,"12,650",Activ,,,,IT,32,9.4,> 5 ani,0
+1454,Munteanu,Oana,F,1990-03-18,2024-11-05,50,Analist Financiar,Junior,Iași,Full-time,"4,150",Plecat,2025-05-09,Echilibru viață-muncă,oana.munteanu454@technova.ro,Financiar,35,0.5,< 1 an,1
+1180,Florea,Gabriela,F,1991-11-25,2020-01-13,30,Specialist Marketing,Junior,Cluj-Napoca,Full-time,"4,250",Activ,,,gabriela.florea180@technova.ro,Marketing,34,6,> 5 ani,0
+1302,Sandu,Mihaela,F,1986-09-23,2017-06-10,40,Specialist HR,Senior,București,Full-time,"8,350",Activ,,,mihaela.sandu302@technova.ro,Resurse Umane,39,8.6,> 5 ani,0
+1108,Popescu,Alexandru,M,1987-03-28,2018-01-30,60,Specialist Suport,Mid,București,Full-time,"3,550",Activ,,,alexandru.popescu108@technova.ro,Suport Clienți,38,7.9,> 5 ani,0
+1103,Tudor,Ioana,F,1987-06-09,2025-06-26,10,DevOps Engineer,Mid,București,Full-time,"8,800",Plecat,2025-12-28,Salariu mai bun în altă parte,ioana.tudor103@technova.ro,IT,38,0.5,< 1 an,1
+1147,Cozma,Ana,F,1985-09-26,2016-10-19,40,Recruiter,Mid,București,Full-time,"4,850",Activ,,,ana.cozma147@technova.ro,Resurse Umane,40,9.2,> 5 ani,0
+1297,Toma,Adrian,M,1979-07-02,2022-07-15,10,Analist IT,Mid,Timișoara,Full-time,"7,300",Activ,,,adrian.toma297@technova.ro,IT,46,3.5,3–5 ani,0
+1100,Popa,Radu,M,1997-09-01,2021-09-04,10,Programator,Junior,București,Full-time,"5,650",Activ,,,radu.popa100@technova.ro,IT,28,4.3,3–5 ani,0
+1445,Cozma,Ioana,F,1985-09-15,2017-05-21,70,Coordonator Logistică,Mid,Timișoara,Full-time,"5,200",Activ,,,ioana.cozma445@technova.ro,Operațiuni,40,8.6,> 5 ani,0
+1178,Preda,Ion,M,1991-02-12,2018-07-04,40,Recruiter,Mid,București,Full-time,"5,950",Activ,,,ion.preda178@technova.ro,Resurse Umane,34,7.5,> 5 ani,0
+1256,Dinu,Marius,M,1996-01-02,2020-09-05,10,DevOps Engineer,Junior,București,Full-time,"5,950",Activ,,,marius.dinu256@technova.ro,IT,29,5.3,> 5 ani,0
+1285,Popa,Robert,M,1979-06-08,2021-12-04,40,Specialist HR,Senior,Timișoara,Full-time,"10,000",Activ,,,robert.popa285@technova.ro,Resurse Umane,46,4.1,3–5 ani,0
+1190,Matei,Adrian,M,1995-12-25,2016-01-06,20,Key Account Manager,Senior,București,Full-time,"7,400",Plecat,2020-11-02,Lipsa oportunităților de promovare,adrian.matei190@technova.ro,Vânzări,30,4.8,3–5 ani,1
+1377,Ene,George,M,1993-03-24,2024-03-23,10,DevOps Engineer,Junior,București,Full-time,"6,650",Plecat,2025-12-27,Salariu mai bun în altă parte,george.ene377@technova.ro,IT,32,1.8,1–3 ani,1
+1314,Ionescu,Robert,M,1989-02-11,2022-06-27,20,Key Account Manager,Mid,București,Full-time,"5,000",Plecat,2023-03-29,Salariu mai bun în altă parte,robert.ionescu314@technova.ro,Vânzări,36,0.8,< 1 an,1
+1385,Voicu,Roxana,F,1996-05-06,2017-11-27,10,Analist IT,Mid,București,Full-time,"7,800",Activ,,,roxana.voicu385@technova.ro,IT,29,8.1,> 5 ani,0
+1305,Barbu,Ionuț,M,1988-02-05,2018-09-11,20,Manager Vânzări,Manager,București,Full-time,"9,050",Activ,,,ionut.barbu305@technova.ro,Vânzări,37,7.3,> 5 ani,0
+1084,Tudor,Andreea,F,1982-07-21,2021-06-11,30,Specialist Marketing,Senior,București,Full-time,"9,150",Plecat,2025-08-06,Relația cu managerul,andreea.tudor084@technova.ro,Marketing,43,4.2,3–5 ani,1
+1396,Preda,Andreea,F,1994-02-20,2024-01-17,70,Coordonator Logistică,Senior,București,Full-time,"7,450",Activ,,,andreea.preda396@technova.ro,Operațiuni,31,2,1–3 ani,0
+1358,Dinu,Mihaela,F,2000-04-01,2025-02-04,60,Operator Call Center,Mid,Iași,Full-time,"4,050",Activ,,,mihaela.dinu358@technova.ro,Suport Clienți,25,0.9,< 1 an,0
+1062,Stoica,Denisa,F,1989-01-09,2022-11-23,30,Content Creator,Junior,Cluj-Napoca,Full-time,"4,200",Activ,,,denisa.stoica062@technova.ro,Marketing,36,3.1,3–5 ani,0
+1341,Oprea,Irina,F,1975-02-03,2017-12-26,10,DevOps Engineer,Senior,București,Full-time,"14,500",Activ,,,irina.oprea341@technova.ro,IT,50,8,> 5 ani,0
+1417,Neagu,Mihaela,F,1996-11-03,2025-01-03,20,Key Account Manager,Junior,București,Full-time,"2,750",Plecat,2025-12-02,Salariu mai bun în altă parte,mihaela.neagu417@technova.ro,Vânzări,29,0.9,< 1 an,1
+1467,Sandu,Andreea,F,1978-03-03,2019-03-25,20,Key Account Manager,Senior,București,Part-time,"9,700",Plecat,2021-01-31,Relocare,andreea.sandu467@technova.ro,Vânzări,47,1.9,1–3 ani,1
+1060,Preda,Alexandru,M,1997-06-12,2025-06-21,60,Operator Call Center,Junior,Iași,Full-time,"3,150",Activ,,,alexandru.preda060@technova.ro,Suport Clienți,28,0.5,< 1 an,0
+1186,Florea,Larisa,F,1996-09-18,2018-11-24,20,Key Account Manager,Junior,Timișoara,Full-time,"3,700",Plecat,2019-06-10,Lipsa oportunităților de promovare,larisa.florea186@technova.ro,Vânzări,29,0.5,< 1 an,1
+1011,Ciobanu,Vlad,M,1996-04-26,2023-09-09,10,Tester QA,Mid,București,Full-time,"8,650",Activ,,,vlad.ciobanu011@technova.ro,IT,29,2.3,1–3 ani,0
+1056,Oprea,Ion,M,1969-10-15,2020-01-28,20,Manager Vânzări,Manager,București,Full-time,"10,100",Activ,,,ion.oprea056@technova.ro,Vânzări,56,5.9,> 5 ani,0
+1446,Lungu,Vlad,M,2000-08-15,2024-03-24,10,Tester QA,Junior,Timișoara,Full-time,"6,850",Activ,,,vlad.lungu446@technova.ro,IT,25,1.8,1–3 ani,0
+1362,Rusu,Elena,F,1989-11-05,2022-06-16,20,Manager Vânzări,Manager,Timișoara,Full-time,"9,750",Activ,,,elena.rusu362@technova.ro,Vânzări,36,3.5,3–5 ani,0
+1057,Cozma,Raluca,F,1998-04-10,2024-04-13,60,Specialist Suport,Junior,București,Full-time,"2,950",Plecat,2025-10-17,Pensionare,raluca.cozma057@technova.ro,Suport Clienți,27,1.5,1–3 ani,1
+1477,Popa,Simona,F,1993-07-18,2017-01-28,10,Tester QA,Junior,București,Full-time,"6,600",Activ,,,simona.popa477@technova.ro,IT,32,8.9,> 5 ani,0
+1348,Neagu,Ana,F,1990-07-23,2023-05-22,10,Analist IT,Junior,București,Full-time,"6,300",Plecat,2024-03-23,Pensionare,ana.neagu348@technova.ro,IT,35,0.8,< 1 an,1
+1198,Dobre,Simona,F,1981-02-01,2023-04-30,30,Manager Marketing,Manager,Cluj-Napoca,Full-time,"11,400",Activ,,,simona.dobre198@technova.ro,Marketing,44,2.7,1–3 ani,0
+1089,Stoica,Mihaela,F,1990-04-07,2019-07-07,20,Key Account Manager,Mid,București,Full-time,"5,100",Activ,,,mihaela.stoica089@technova.ro,Vânzări,35,6.5,> 5 ani,0
+1262,Dinu,Florin,M,1980-06-06,2025-07-05,10,DevOps Engineer,Senior,București,Part-time,"12,900",Plecat,2025-11-17,Salariu mai bun în altă parte,florin.dinu262@technova.ro,IT,45,0.4,< 1 an,1
+1025,Lungu,Ioana,F,1985-03-08,2022-08-26,30,Specialist Marketing,Mid,Cluj-Napoca,Full-time,"6,050",Activ,,,ioana.lungu025@technova.ro,Marketing,40,3.3,3–5 ani,0
+1112,Constantin,Mihaela,F,1991-05-28,2017-12-24,30,Content Creator,Junior,Cluj-Napoca,Full-time,"5,000",Plecat,2020-08-22,Nespecificat,mihaela.constantin112@technova.ro,Marketing,34,2.7,1–3 ani,1
+1115,Rusu,Denisa,F,1972-06-20,2018-02-02,50,Contabil,Senior,Iași,Full-time,"6,800",Plecat,2023-11-19,Nespecificat,denisa.rusu115@technova.ro,Financiar,53,5.8,> 5 ani,1
+1195,Munteanu,Oana,F,1976-03-07,2019-10-12,60,Specialist Suport,Senior,Iași,Full-time,"6,000",Activ,,,oana.munteanu195@technova.ro,Suport Clienți,49,6.2,> 5 ani,0
+1391,Voicu,Stefan,M,1990-11-06,2018-11-11,60,Specialist Suport,Mid,Timișoara,Full-time,"4,175",Activ,,,stefan.voicu391@technova.ro,Suport Clienți,35,7.1,> 5 ani,0
+1331,Surdu,Marius,M,1991-05-08,2017-08-15,10,Analist IT,Mid,București,Full-time,"10,100",Activ,,,marius.surdu331@technova.ro,IT,34,8.4,> 5 ani,0
+1395,Florea,Ana,F,1986-09-15,2018-05-10,20,Agent Vânzări,Mid,București,Full-time,"5,800",Plecat,2025-06-13,Relația cu managerul,ana.florea395@technova.ro,Vânzări,39,7.1,> 5 ani,1
+1032,Gheorghe,Alexandru,M,1987-01-03,2021-09-13,10,DevOps Engineer,Mid,București,Full-time,"7,550",Activ,,,alexandru.gheorghe032@technova.ro,IT,38,4.3,3–5 ani,0
+1334,Oprea,Cristian,M,1983-08-10,2023-06-11,40,Specialist HR,Junior,București,Full-time,"3,700",Plecat,2025-09-08,Nespecificat,cristian.oprea334@technova.ro,Resurse Umane,42,2.2,1–3 ani,1
+1192,Stan,Stefan,M,1994-06-12,2019-07-21,30,Specialist Marketing,Mid,Cluj-Napoca,Full-time,"6,700",Activ,,,stefan.stan192@technova.ro,Marketing,31,6.4,> 5 ani,0
+1434,Stoica,Maria,F,1989-12-18,2022-04-23,60,Specialist Suport,Senior,Iași,Full-time,"5,600",Plecat,2024-08-09,Echilibru viață-muncă,maria.stoica434@technova.ro,Suport Clienți,36,2.3,1–3 ani,1
+1171,Matei,Roxana,F,1987-04-02,2021-11-12,10,Manager IT,Manager,București,Full-time,"14,250",Activ,,,roxana.matei171@technova.ro,IT,38,4.1,3–5 ani,0
+1181,Matei,Robert,M,1975-06-04,2019-11-24,70,Coordonator Logistică,Senior,Timișoara,Full-time,"7,200",Activ,,,robert.matei181@technova.ro,Operațiuni,50,6.1,> 5 ani,0
+1165,Voicu,Oana,F,1989-10-23,2024-10-04,60,Specialist Suport,Senior,Timișoara,Full-time,"5,850",Plecat,2025-10-17,Pensionare,oana.voicu165@technova.ro,Suport Clienți,36,1,1–3 ani,1
+1228,Neagu,Roxana,F,1989-04-17,2017-02-25,50,Contabil,Junior,Iași,Full-time,"5,100",Plecat,2023-09-08,Relația cu managerul,roxana.neagu228@technova.ro,Financiar,36,6.5,> 5 ani,1
+1176,Marin,Larisa,F,1987-05-14,2019-05-30,10,Tester QA,Mid,Iași,Full-time,"8,800",Activ,,,larisa.marin176@technova.ro,IT,38,6.6,> 5 ani,0
+1263,Surdu,Ion,M,1992-08-26,2022-12-14,20,Agent Vânzări,Mid,București,Full-time,"5,000",Activ,,,ion.surdu263@technova.ro,Vânzări,33,3,3–5 ani,0
+1249,Nistor,Larisa,F,1994-09-02,2019-12-21,30,Specialist Marketing,Junior,Iași,Full-time,"3,950",Activ,,,larisa.nistor249@technova.ro,Marketing,31,6,> 5 ani,0
+1438,Barbu,Raluca,F,1991-09-15,2017-06-02,20,Agent Vânzări,Mid,București,Full-time,"5,550",Activ,,,raluca.barbu438@technova.ro,Vânzări,34,8.6,> 5 ani,0
+1269,Dumitru,Larisa,F,1992-01-06,2021-12-22,50,Contabil,Junior,Iași,Full-time,"5,150",Activ,,,larisa.dumitru269@technova.ro,Financiar,33,4,3–5 ani,0
+1129,Stan,Robert,M,1998-08-27,2023-03-28,10,Analist IT,Junior,Cluj-Napoca,Full-time,"6,050",Plecat,2025-10-19,Salariu mai bun în altă parte,robert.stan129@technova.ro,IT,27,2.6,1–3 ani,1
+1458,Popa,Larisa,F,1985-10-07,2018-08-05,60,Operator Call Center,Mid,Iași,Full-time,"3,450",Activ,,,larisa.popa458@technova.ro,Suport Clienți,40,7.4,> 5 ani,0
+1124,Stoica,Florin,M,1994-09-16,2019-09-15,20,Key Account Manager,Junior,București,Full-time,"3,450",Activ,,,florin.stoica124@technova.ro,Vânzări,31,6.3,> 5 ani,0
+1328,Dumitru,Irina,F,1993-09-26,2022-09-27,30,Specialist Marketing,Senior,Cluj-Napoca,Full-time,"10,450",Activ,,,irina.dumitru328@technova.ro,Marketing,32,3.3,3–5 ani,0
+1289,Popa,Irina,F,1981-08-12,2020-10-29,60,Manager Suport Clienți,Manager,Iași,Full-time,"8,600",Activ,,,irina.popa289@technova.ro,Suport Clienți,44,5.2,> 5 ani,0
+1234,Constantin,Oana,F,1992-04-16,2017-11-20,10,Analist IT,Junior,București,Part-time,"6,550",Plecat,2023-09-11,Salariu mai bun în altă parte,oana.constantin234@technova.ro,IT,33,5.8,> 5 ani,1
+1099,Barbu,Elena,F,1991-08-26,2016-02-03,10,Programator,Junior,București,Full-time,"6,350",Activ,,,elena.barbu099@technova.ro,IT,34,9.9,> 5 ani,0
+1240,Ciobanu,Ioana,F,1996-03-20,2017-07-09,20,Key Account Manager,Junior,București,Full-time,"3,500",Activ,,,ioana.ciobanu240@technova.ro,Vânzări,29,8.5,> 5 ani,0
+1288,Rusu,Bogdan,M,1988-06-12,2018-03-08,70,Specialist Operațiuni,Junior,Timișoara,Full-time,"4,400",Plecat,2022-01-23,Lipsa oportunităților de promovare,bogdan.rusu288@technova.ro,Operațiuni,37,3.9,3–5 ani,1
+1158,Rusu,Gabriela,F,1989-11-07,2023-05-25,10,Manager IT,Manager,București,Full-time,"17,450",Plecat,2025-12-05,Nespecificat,gabriela.rusu158@technova.ro,IT,36,2.5,1–3 ani,1
+1187,Surdu,Bogdan,M,1981-12-24,2021-10-18,30,Content Creator,Senior,Cluj-Napoca,Full-time,"8,800",Activ,,,bogdan.surdu187@technova.ro,Marketing,44,4.2,3–5 ani,0
+1210,Ionescu,Radu,M,1981-08-26,2024-04-13,30,Content Creator,Mid,Cluj-Napoca,Part-time,"5,900",Activ,,,radu.ionescu210@technova.ro,Marketing,44,1.7,1–3 ani,0
+1346,Ionescu,Larisa,F,1979-09-15,2025-01-01,20,Agent Vânzări,Senior,Iași,Full-time,"8,150",Plecat,2025-11-27,Lipsa oportunităților de promovare,larisa.ionescu346@technova.ro,Vânzări,46,0.9,< 1 an,1
+1292,Matei,Robert,M,1993-12-16,2016-11-03,70,Coordonator Logistică,Junior,București,Full-time,"3,600",Plecat,2024-11-01,Echilibru viață-muncă,robert.matei292@technova.ro,Operațiuni,32,8,> 5 ani,1
+1304,Preda,Elena,F,1983-10-09,2024-05-06,60,Operator Call Center,Junior,Iași,Full-time,"2,750",Activ,,,elena.preda304@technova.ro,Suport Clienți,42,1.7,1–3 ani,0
+1349,Barbu,Ana,F,1991-03-10,2019-10-16,10,Analist IT,Junior,București,Part-time,"5,900",Activ,,,ana.barbu349@technova.ro,IT,34,6.2,> 5 ani,0
+1419,Cozma,Denisa,F,1983-11-27,2022-12-11,20,Key Account Manager,Mid,București,Full-time,"5,400",Activ,,,denisa.cozma419@technova.ro,Vânzări,42,3.1,3–5 ani,0
+1444,Toma,Larisa,F,1999-02-13,2024-12-05,60,Specialist Suport,Junior,București,Part-time,"3,150",Activ,,,larisa.toma444@technova.ro,Suport Clienți,26,1.1,1–3 ani,0
+1109,Popa,Ana,F,1978-06-27,2025-07-08,50,Contabil,Mid,Iași,Full-time,"6,350",Activ,,,ana.popa109@technova.ro,Financiar,47,0.5,< 1 an,0
+1422,Sandu,Alexandru,M,1981-02-03,2019-03-27,10,Tester QA,Junior,București,Full-time,"5,700",Plecat,2023-03-30,Lipsa oportunităților de promovare,alexandru.sandu422@technova.ro,IT,44,4,3–5 ani,1
+1245,Voicu,Raluca,F,1995-05-10,2019-02-28,10,DevOps Engineer,Junior,București,Full-time,"4,800",Activ,,,raluca.voicu245@technova.ro,IT,30,6.8,> 5 ani,0
+1272,Ciobanu,Mihai,M,1991-02-26,2019-10-22,60,Specialist Suport,Junior,Iași,Full-time,"2,825",Activ,,,mihai.ciobanu272@technova.ro,Suport Clienți,34,6.2,> 5 ani,0
+1387,Dinu,Raluca,F,1992-06-14,2016-01-22,30,Specialist Marketing,Junior,București,Full-time,"3,950",Activ,,,raluca.dinu387@technova.ro,Marketing,33,9.9,> 5 ani,0
+1083,Nistor,Alexandra,F,1978-09-21,2018-10-22,10,Analist IT,Mid,București,Full-time,"9,250",Activ,,,alexandra.nistor083@technova.ro,IT,47,7.2,> 5 ani,0
+1241,Preda,Mihaela,F,1993-03-19,2018-06-22,50,Analist Financiar,Junior,București,Full-time,"4,650",Activ,,,,Financiar,32,7.5,> 5 ani,0
+1054,Preda,Denisa,F,1988-05-13,2017-10-26,70,Coordonator Logistică,Junior,București,Full-time,"3,800",Activ,,,denisa.preda054@technova.ro,Operațiuni,37,8.2,> 5 ani,0
+1242,Munteanu,Simona,F,1987-08-06,2018-09-11,60,Operator Call Center,Junior,Iași,Full-time,"2,550",Activ,,,simona.munteanu242@technova.ro,Suport Clienți,38,7.3,> 5 ani,0
+1085,Florea,Florin,M,1984-03-05,2016-03-10,60,Operator Call Center,Junior,Iași,Full-time,"2,450",Plecat,2023-11-17,Salariu mai bun în altă parte,florin.florea085@technova.ro,Suport Clienți,41,7.7,> 5 ani,1
+1426,Surdu,Alexandra,F,1980-06-15,2021-11-01,70,Coordonator Logistică,Mid,Timișoara,Full-time,"5,300",Plecat,2022-11-03,Lipsa oportunităților de promovare,alexandra.surdu426@technova.ro,Operațiuni,45,1,1–3 ani,1
+1480,Stoica,Bianca,F,1979-02-16,2017-04-18,20,Manager Vânzări,Manager,București,Full-time,"10,250",Activ,,,bianca.stoica480@technova.ro,Vânzări,46,8.7,> 5 ani,0
+1397,Neagu,Simona,F,1979-10-20,2020-11-27,20,Key Account Manager,Senior,București,Full-time,"7,100",Activ,,,simona.neagu397@technova.ro,Vânzări,46,5.1,> 5 ani,0
+1420,Marin,Mihai,M,1988-05-02,2018-05-15,20,Key Account Manager,Junior,București,Full-time,"3,450",Activ,,,mihai.marin420@technova.ro,Vânzări,37,7.6,> 5 ani,0
+1202,Matei,Larisa,F,1981-08-26,2023-10-12,60,Specialist Suport,Junior,Iași,Full-time,"2,950",Activ,,,larisa.matei202@technova.ro,Suport Clienți,44,2.2,1–3 ani,0
+1075,Matei,Larisa,F,1990-02-23,2018-12-13,10,Analist IT,Mid,București,Full-time,"8,000",Activ,,,larisa.matei075@technova.ro,IT,35,7,> 5 ani,0
+1453,Florea,Oana,F,1981-09-21,2019-09-23,60,Operator Call Center,Junior,Iași,Full-time,"2,550",Activ,,,oana.florea453@technova.ro,Suport Clienți,44,6.3,> 5 ani,0
+1402,Sandu,Ana,F,1987-02-02,2022-12-04,20,Agent Vânzări,Junior,București,Full-time,"3,150",Plecat,2024-07-18,Relația cu managerul,ana.sandu402@technova.ro,Vânzări,38,1.6,1–3 ani,1
+1273,Surdu,Ion,M,1990-11-17,2018-08-31,20,Agent Vânzări,Junior,București,Full-time,"4,250",Plecat,2018-12-05,Salariu mai bun în altă parte,ion.surdu273@technova.ro,Vânzări,35,0.3,< 1 an,1
+1383,Sandu,Diana,F,2003-08-22,2023-10-18,20,Agent Vânzări,Junior,București,Full-time,"3,750",Activ,,,diana.sandu383@technova.ro,Vânzări,22,2.2,1–3 ani,0
+1024,Sandu,Alexandra,F,1976-11-07,2016-12-16,70,Specialist Operațiuni,Senior,Cluj-Napoca,Full-time,"6,950",Activ,,,alexandra.sandu024@technova.ro,Operațiuni,49,9,> 5 ani,0
+1410,Stan,Robert,M,2000-11-09,2023-01-09,10,Analist IT,Junior,București,Full-time,"6,150",Activ,,,robert.stan410@technova.ro,IT,25,3,3–5 ani,0
+1155,Tudor,George,M,1982-03-17,2017-05-14,10,Programator,Mid,București,Full-time,"8,600",Activ,,,george.tudor155@technova.ro,IT,43,8.6,> 5 ani,0
+1340,Munteanu,Raluca,F,1981-06-07,2017-04-19,10,Analist IT,Junior,București,Full-time,"5,050",Plecat,2018-03-24,Echilibru viață-muncă,raluca.munteanu340@technova.ro,IT,44,0.9,< 1 an,1
+1374,Neagu,Sorin,M,1989-10-10,2022-12-28,20,Key Account Manager,Mid,București,Part-time,"5,350",Activ,,,sorin.neagu374@technova.ro,Vânzări,36,3,3–5 ani,0
+1237,Preda,Robert,M,1983-11-01,2018-06-22,10,Analist IT,Junior,București,Full-time,"5,800",Activ,,,robert.preda237@technova.ro,IT,42,7.5,> 5 ani,0
+1051,Oprea,Cătălin,M,1994-03-16,2022-04-19,30,Specialist Marketing,Senior,Iași,Full-time,"8,975",Activ,,,catalin.oprea051@technova.ro,Marketing,31,3.7,3–5 ani,0
+1039,Stan,Bogdan,M,1997-05-24,2022-02-24,60,Specialist Suport,Mid,Iași,Full-time,"3,350",Plecat,2023-03-07,Relația cu managerul,bogdan.stan039@technova.ro,Suport Clienți,28,1,1–3 ani,1
+1279,Oprea,Irina,F,1992-06-10,2025-08-06,10,Analist IT,Mid,București,Full-time,"8,700",Activ,,,irina.oprea279@technova.ro,IT,33,0.4,< 1 an,0
+1478,Popa,Andrei,M,1986-11-27,2018-07-11,10,Tester QA,Junior,București,Full-time,"7,000",Activ,,,andrei.popa478@technova.ro,IT,39,7.5,> 5 ani,0
+1006,Lungu,Gabriela,F,1993-08-01,2023-09-14,50,Contabil,Mid,Iași,Full-time,"6,300",Plecat,2025-09-13,Salariu mai bun în altă parte,gabriela.lungu006@technova.ro,Financiar,32,2,1–3 ani,1
+1076,Gheorghe,Oana,F,1995-11-12,2024-03-20,60,Operator Call Center,Junior,București,Full-time,"2,900",Plecat,2025-01-19,Echilibru viață-muncă,oana.gheorghe076@technova.ro,Suport Clienți,30,0.8,< 1 an,1
+1143,Marin,Cristian,M,1978-07-03,2017-04-14,10,DevOps Engineer,Senior,Cluj-Napoca,Full-time,"13,100",Activ,,,cristian.marin143@technova.ro,IT,47,8.7,> 5 ani,0
+1048,Stoica,Oana,F,1990-04-04,2024-12-27,10,Analist IT,Mid,București,Full-time,"8,650",Activ,,,oana.stoica048@technova.ro,IT,35,1,1–3 ani,0
+1047,Dumitru,Vlad,M,1979-05-10,2017-03-01,70,Specialist Operațiuni,Mid,Timișoara,Full-time,"4,750",Activ,,,vlad.dumitru047@technova.ro,Operațiuni,46,8.8,> 5 ani,0
+1071,Popa,Bogdan,M,1999-12-28,2023-03-17,10,Programator,Junior,București,Full-time,"7,400",Activ,,,bogdan.popa071@technova.ro,IT,26,2.8,1–3 ani,0
+1080,Ionescu,Ion,M,1978-05-14,2023-12-01,80,Consilier Juridic,Senior,București,Full-time,"12,100",Activ,,,ion.ionescu080@technova.ro,Juridic,47,2.1,1–3 ani,0
+1031,Marin,Vlad,M,1977-12-11,2023-01-27,20,Key Account Manager,Mid,București,Full-time,"5,950",Plecat,2025-05-29,Echilibru viață-muncă,vlad.marin031@technova.ro,Vânzări,48,2.3,1–3 ani,1
+1012,Preda,Cristian,M,1989-12-05,2020-09-18,10,DevOps Engineer,Mid,București,Full-time,"7,100",Plecat,2023-11-03,Echilibru viață-muncă,cristian.preda012@technova.ro,IT,36,3.1,3–5 ani,1
+1350,Dinu,Andrei,M,1986-10-26,2024-04-09,60,Operator Call Center,Mid,Iași,Full-time,"5,550",Activ,,,andrei.dinu350@technova.ro,Suport Clienți,39,1.7,1–3 ani,0
+1469,Neagu,Raluca,F,1975-02-11,2021-04-27,60,Specialist Suport,Senior,Iași,Full-time,"6,550",Activ,,,raluca.neagu469@technova.ro,Suport Clienți,50,4.7,3–5 ani,0
+1271,Munteanu,Sorin,M,1991-03-10,2024-09-30,70,Coordonator Logistică,Junior,Timișoara,Full-time,"3,450",Activ,,,sorin.munteanu271@technova.ro,Operațiuni,34,1.3,1–3 ani,0
+1116,Ciobanu,Stefan,M,1994-04-05,2016-11-03,70,Coordonator Logistică,Mid,București,Full-time,"4,250",Activ,,,stefan.ciobanu116@technova.ro,Operațiuni,31,9.2,> 5 ani,0
+1026,Dinu,Robert,M,1985-12-19,2022-08-24,20,Agent Vânzări,Junior,București,Full-time,"4,500",Activ,,,robert.dinu026@technova.ro,Vânzări,40,3.4,3–5 ani,0
+1196,Ionescu,Oana,F,1995-03-28,2020-09-20,50,Contabil,Junior,București,Full-time,"4,200",Activ,,,oana.ionescu196@technova.ro,Financiar,30,5.3,> 5 ani,0
+1392,Barbu,Gabriela,F,1984-02-24,2016-09-17,70,Specialist Operațiuni,Junior,Timișoara,Full-time,"3,500",Activ,,,gabriela.barbu392@technova.ro,Operațiuni,41,9.3,> 5 ani,0
+1066,Cozma,Sorin,M,2004-07-28,2024-12-15,80,Consilier Juridic,Junior,București,Full-time,"5,200",Activ,,,sorin.cozma066@technova.ro,Juridic,21,1,1–3 ani,0
+1290,Oprea,Mihaela,F,1989-03-22,2018-03-05,40,Recruiter,Senior,București,Full-time,"7,950",Activ,,,mihaela.oprea290@technova.ro,Resurse Umane,36,7.8,> 5 ani,0
+1046,Sandu,Ion,M,1981-01-21,2022-06-30,60,Specialist Suport,Senior,Iași,Full-time,"6,500",Activ,,,ion.sandu046@technova.ro,Suport Clienți,44,3.5,3–5 ani,0
+1400,Constantin,Irina,F,1972-08-15,2019-07-11,10,DevOps Engineer,Senior,București,Full-time,"10,900",Activ,,,irina.constantin400@technova.ro,IT,53,6.5,> 5 ani,0
+1393,Ciobanu,Radu,M,1985-01-06,2023-04-01,60,Specialist Suport,Junior,București,Full-time,"2,300",Activ,,,radu.ciobanu393@technova.ro,Suport Clienți,40,2.8,1–3 ani,0
+1252,Rusu,Alexandru,M,1984-07-10,2016-07-30,60,Operator Call Center,Mid,Iași,Full-time,"4,350",Activ,,,alexandru.rusu252@technova.ro,Suport Clienți,41,9.4,> 5 ani,0
+1461,Nistor,Andreea,F,1987-11-05,2021-01-28,20,Agent Vânzări,Senior,București,Full-time,"6,950",Activ,,,,Vânzări,38,4.9,3–5 ani,0
+1474,Toma,Florin,M,1989-01-06,2024-07-28,70,Specialist Operațiuni,Mid,Timișoara,Part-time,"5,200",Activ,,,florin.toma474@technova.ro,Operațiuni,36,1.4,1–3 ani,0
+1069,Matei,Denisa,F,1996-09-14,2024-08-15,10,Tester QA,Mid,București,Full-time,"7,750",Activ,,,denisa.matei069@technova.ro,IT,29,1.4,1–3 ani,0
+1367,Dobre,Mihaela,F,1986-09-01,2023-06-30,30,Specialist Marketing,Senior,București,Full-time,"7,250",Activ,,,mihaela.dobre367@technova.ro,Marketing,39,2.5,1–3 ani,0
+1078,Tudor,Raluca,F,1987-05-16,2020-05-17,40,Recruiter,Mid,București,Full-time,"5,500",Activ,,,raluca.tudor078@technova.ro,Resurse Umane,38,5.6,> 5 ani,0
+1295,Lungu,Roxana,F,1989-08-09,2021-10-20,80,Consilier Juridic,Mid,București,Full-time,"8,550",Plecat,2022-04-17,Echilibru viață-muncă,roxana.lungu295@technova.ro,Juridic,36,0.5,< 1 an,1
+1437,Florea,Ionuț,M,1982-02-13,2016-01-21,20,Manager Vânzări,Manager,București,Full-time,"9,650",Activ,,,ionut.florea437@technova.ro,Vânzări,43,9.9,> 5 ani,0
+1280,Neagu,Adrian,M,1990-04-27,2022-07-31,20,Key Account Manager,Senior,București,Part-time,"6,800",Activ,,,adrian.neagu280@technova.ro,Vânzări,35,3.4,3–5 ani,0
+1059,Popa,Ioana,F,1991-03-17,2016-12-30,80,Consilier Juridic,Junior,București,Full-time,"4,950",Activ,,,ioana.popa059@technova.ro,Juridic,34,9,> 5 ani,0
+1126,Popescu,Denisa,F,1995-12-11,2018-04-15,20,Agent Vânzări,Senior,Timișoara,Full-time,"7,500",Activ,,,denisa.popescu126@technova.ro,Vânzări,30,7.7,> 5 ani,0
+1043,Marin,Daniel,M,1985-09-05,2023-06-26,80,Consilier Juridic,Junior,București,Part-time,"5,450",Plecat,2025-04-30,Echilibru viață-muncă,daniel.marin043@technova.ro,Juridic,40,1.8,1–3 ani,1
+1005,Gheorghe,Alexandru,M,1983-06-15,2022-11-01,60,Operator Call Center,Senior,Iași,Full-time,"5,900",Activ,,,alexandru.gheorghe005@technova.ro,Suport Clienți,42,3.2,3–5 ani,0
+1122,Ionescu,Diana,F,1982-06-13,2016-06-10,70,Coordonator Logistică,Mid,București,Full-time,"4,300",Activ,,,diana.ionescu122@technova.ro,Operațiuni,43,9.6,> 5 ani,0
+1169,Barbu,Roxana,F,1995-01-26,2018-07-30,70,Specialist Operațiuni,Mid,Timișoara,Full-time,"5,125",Activ,,,roxana.barbu169@technova.ro,Operațiuni,30,7.4,> 5 ani,0
+1141,Constantin,Irina,F,1996-12-13,2018-03-27,20,Key Account Manager,Junior,București,Full-time,"3,800",Plecat,2023-10-26,Echilibru viață-muncă,irina.constantin141@technova.ro,Vânzări,29,5.6,> 5 ani,1
+1231,Barbu,Ioana,F,1995-08-25,2018-05-18,30,Content Creator,Junior,București,Full-time,"4,250",Activ,,,ioana.barbu231@technova.ro,Marketing,30,7.6,> 5 ani,0
+1430,Nistor,Andreea,F,1989-01-28,2019-06-26,20,Key Account Manager,Junior,București,Full-time,"3,900",Activ,,,andreea.nistor430@technova.ro,Vânzări,36,6.5,> 5 ani,0
+1321,Gheorghe,Elena,F,1995-01-17,2017-01-30,70,Specialist Operațiuni,Senior,București,Full-time,"6,500",Activ,,,elena.gheorghe321@technova.ro,Operațiuni,30,8.9,> 5 ani,0
+1110,Ciobanu,Cătălin,M,1989-06-20,2020-11-27,10,Tester QA,Mid,București,Full-time,"8,300",Activ,,,catalin.ciobanu110@technova.ro,IT,36,5.1,> 5 ani,0
+1119,Gheorghe,Bianca,F,1987-12-22,2022-12-30,20,Key Account Manager,Junior,București,Full-time,"3,400",Activ,,,bianca.gheorghe119@technova.ro,Vânzări,38,3,3–5 ani,0
+1206,Lungu,Andreea,F,1997-10-15,2019-03-13,60,Operator Call Center,Mid,Iași,Full-time,"4,100",Plecat,2023-06-24,Salariu mai bun în altă parte,andreea.lungu206@technova.ro,Suport Clienți,28,4.3,3–5 ani,1
+1303,Ene,Diana,F,1988-04-14,2017-08-15,50,Manager Financiar,Manager,Iași,Full-time,"12,850",Activ,,,diana.ene303@technova.ro,Financiar,37,8.4,> 5 ani,0
+1307,Ene,Radu,M,1983-03-10,2024-02-07,10,Manager IT,Manager,București,Full-time,"15,300",Activ,,,radu.ene307@technova.ro,IT,42,1.9,1–3 ani,0
+1007,Gheorghe,Robert,M,1980-05-12,2025-08-27,50,Analist Financiar,Senior,Iași,Full-time,"10,300",Activ,,,robert.gheorghe007@technova.ro,Financiar,45,0.3,< 1 an,0
+1355,Marin,Robert,M,1991-10-09,2025-04-17,70,Specialist Operațiuni,Junior,Timișoara,Full-time,"3,300",Plecat,2025-12-01,Nespecificat,robert.marin355@technova.ro,Operațiuni,34,0.6,< 1 an,1
+1255,Dobre,Raluca,F,2000-06-28,2021-10-07,20,Key Account Manager,Junior,Cluj-Napoca,Full-time,"3,400",Plecat,2023-05-10,Relația cu managerul,raluca.dobre255@technova.ro,Vânzări,25,1.6,1–3 ani,1
+1415,Ionescu,Diana,F,2001-06-08,2022-01-13,40,Recruiter,Junior,București,Full-time,"4,100",Activ,,,diana.ionescu415@technova.ro,Resurse Umane,24,4,3–5 ani,0
+1238,Tudor,Sorin,M,1988-08-17,2019-07-16,50,Analist Financiar,Mid,Cluj-Napoca,Part-time,"7,850",Plecat,2021-01-27,Salariu mai bun în altă parte,sorin.tudor238@technova.ro,Financiar,37,1.5,1–3 ani,1
+1411,Constantin,Sorin,M,1986-12-18,2020-05-21,20,Key Account Manager,Mid,București,Full-time,"6,650",Activ,,,sorin.constantin411@technova.ro,Vânzări,39,5.6,> 5 ani,0
+1248,Matei,Ioana,F,1985-03-05,2020-06-20,60,Specialist Suport,Mid,Iași,Full-time,"4,700",Activ,,,ioana.matei248@technova.ro,Suport Clienți,40,5.5,> 5 ani,0
+1390,Gheorghe,Cristina,F,1977-06-01,2020-12-02,60,Manager Suport Clienți,Manager,Iași,Full-time,"8,000",Activ,,,cristina.gheorghe390@technova.ro,Suport Clienți,48,5.1,> 5 ani,0
+1022,Moldovan,Sorin,M,1997-07-01,2020-06-01,20,Key Account Manager,Junior,București,Full-time,"3,750",Plecat,2025-01-30,Lipsa oportunităților de promovare,sorin.moldovan022@technova.ro,Vânzări,28,4.7,3–5 ani,1
+1431,Dumitru,Cristina,F,1994-05-22,2016-05-21,30,Specialist Marketing,Senior,Timișoara,Part-time,"9,250",Activ,,,cristina.dumitru431@technova.ro,Marketing,31,9.6,> 5 ani,0
+1004,Ionescu,Oana,F,1981-09-03,2020-03-27,60,Operator Call Center,Senior,București,Full-time,"5,500",Plecat,2022-03-16,Salariu mai bun în altă parte,oana.ionescu004@technova.ro,Suport Clienți,44,2,1–3 ani,1
+1260,Dumitru,Bianca,F,1980-07-26,2023-03-10,70,Coordonator Logistică,Senior,Timișoara,Full-time,"6,800",Activ,,,bianca.dumitru260@technova.ro,Operațiuni,45,2.8,1–3 ani,0
+1212,Munteanu,Irina,F,1981-02-08,2019-01-07,70,Specialist Operațiuni,Mid,Timișoara,Part-time,"4,000",Activ,,,irina.munteanu212@technova.ro,Operațiuni,44,7,> 5 ani,0
+1123,Preda,Vlad,M,1997-03-12,2025-04-07,10,Tester QA,Junior,Iași,Full-time,"6,650",Activ,,,vlad.preda123@technova.ro,IT,28,0.7,< 1 an,0
+1079,Neagu,Irina,F,1983-01-11,2018-01-05,50,Contabil,Junior,Iași,Full-time,"4,700",Activ,,,irina.neagu079@technova.ro,Financiar,42,8,> 5 ani,0
+1388,Oprea,Alexandru,M,1993-02-20,2019-05-25,20,Key Account Manager,Senior,București,Full-time,"8,400",Plecat,2025-12-29,Lipsa oportunităților de promovare,alexandru.oprea388@technova.ro,Vânzări,32,6.6,> 5 ani,1
+1468,Neagu,Mihaela,F,1992-11-18,2025-02-25,30,Specialist Marketing,Mid,Iași,Full-time,"6,700",Activ,,,mihaela.neagu468@technova.ro,Marketing,33,0.8,< 1 an,0
+1219,Matei,Stefan,M,1992-02-23,2025-07-25,70,Coordonator Logistică,Senior,Timișoara,Full-time,"7,300",Activ,,,stefan.matei219@technova.ro,Operațiuni,33,0.4,< 1 an,0
+1266,Stan,Denisa,F,1987-02-10,2020-01-14,70,Specialist Operațiuni,Mid,București,Full-time,"5,250",Activ,,,denisa.stan266@technova.ro,Operațiuni,38,6,> 5 ani,0
+1065,Marin,Roxana,F,1989-09-24,2023-01-11,10,DevOps Engineer,Senior,București,Full-time,"13,000",Activ,,,roxana.marin065@technova.ro,IT,36,3,3–5 ani,0
+1019,Ionescu,Ioana,F,2001-09-12,2023-01-04,60,Operator Call Center,Junior,Iași,Full-time,"3,550",Activ,,,ioana.ionescu019@technova.ro,Suport Clienți,24,3,3–5 ani,0
+1343,Matei,Daniel,M,1996-12-16,2024-08-09,70,Specialist Operațiuni,Mid,București,Full-time,"5,150",Activ,,,daniel.matei343@technova.ro,Operațiuni,29,1.4,1–3 ani,0
+1152,Cozma,Daniel,M,1998-07-05,2019-02-09,20,Agent Vânzări,Mid,București,Full-time,"5,600",Plecat,2022-09-17,Salariu mai bun în altă parte,daniel.cozma152@technova.ro,Vânzări,27,3.6,3–5 ani,1
+1281,Ene,Roxana,F,1985-04-13,2016-10-06,70,Coordonator Logistică,Junior,Timișoara,Full-time,"3,300",Activ,,,roxana.ene281@technova.ro,Operațiuni,40,9.2,> 5 ani,0
+1164,Rusu,Adrian,M,1987-11-15,2016-01-21,30,Specialist Marketing,Senior,Cluj-Napoca,Full-time,"8,000",Plecat,2017-03-30,Echilibru viață-muncă,adrian.rusu164@technova.ro,Marketing,38,1.2,1–3 ani,1
+1330,Toma,Gabriela,F,1980-11-25,2018-09-22,60,Specialist Suport,Mid,București,Full-time,"4,200",Activ,,,gabriela.toma330@technova.ro,Suport Clienți,45,7.3,> 5 ani,0
+1366,Lungu,Ioana,F,1979-12-04,2024-04-29,50,Analist Financiar,Mid,Iași,Full-time,"7,550",Activ,,,,Financiar,46,1.7,1–3 ani,0
+1320,Moldovan,Ionuț,M,1984-03-10,2016-09-15,10,Analist IT,Junior,București,Part-time,"6,100",Activ,,,ionut.moldovan320@technova.ro,IT,41,9.3,> 5 ani,0
+1144,Neagu,Diana,F,1990-06-05,2023-07-29,10,Programator,Senior,București,Full-time,"14,550",Activ,,,diana.neagu144@technova.ro,IT,35,2.4,1–3 ani,0
+1407,Ionescu,Mihai,M,1985-08-10,2024-02-21,70,Specialist Operațiuni,Senior,Timișoara,Full-time,"9,150",Plecat,2025-05-30,Echilibru viață-muncă,mihai.ionescu407@technova.ro,Operațiuni,40,1.3,1–3 ani,1
+1413,Moldovan,Marius,M,1985-10-28,2022-09-06,50,Contabil,Mid,Iași,Full-time,"6,300",Activ,,,marius.moldovan413@technova.ro,Financiar,40,3.3,3–5 ani,0
+1200,Neagu,Daniel,M,1974-10-11,2018-02-23,50,Analist Financiar,Senior,Iași,Full-time,"9,150",Activ,,,daniel.neagu200@technova.ro,Financiar,51,7.9,> 5 ani,0
+1042,Lungu,Marius,M,1996-06-24,2024-09-30,20,Agent Vânzări,Senior,București,Part-time,"6,800",Activ,,,marius.lungu042@technova.ro,Vânzări,29,1.3,1–3 ani,0
+1283,Ciobanu,Alexandra,F,1976-11-16,2016-10-14,30,Specialist Marketing,Senior,Cluj-Napoca,Full-time,"9,050",Activ,,,alexandra.ciobanu283@technova.ro,Marketing,49,9.2,> 5 ani,0
+1327,Surdu,Bogdan,M,1988-08-26,2021-10-31,60,Operator Call Center,Mid,Iași,Full-time,"4,250",Plecat,2025-04-18,Nespecificat,bogdan.surdu327@technova.ro,Suport Clienți,37,3.5,3–5 ani,1
+1232,Neagu,Andrei,M,1990-03-21,2025-04-11,70,Specialist Operațiuni,Mid,Timișoara,Full-time,"4,900",Activ,,,andrei.neagu232@technova.ro,Operațiuni,35,0.7,< 1 an,0
+1246,Ciobanu,Bianca,F,1995-05-08,2019-08-30,20,Key Account Manager,Senior,Iași,Full-time,"6,500",Activ,,,bianca.ciobanu246@technova.ro,Vânzări,30,6.3,> 5 ani,0
+1371,Stoica,Robert,M,1987-05-13,2024-06-29,20,Agent Vânzări,Junior,București,Full-time,"3,950",Activ,,,robert.stoica371@technova.ro,Vânzări,38,1.5,1–3 ani,0
+1326,Tudor,Robert,M,1984-06-27,2021-04-24,50,Contabil,Junior,Iași,Part-time,"4,100",Activ,,,robert.tudor326@technova.ro,Financiar,41,4.7,3–5 ani,0
+1443,Tudor,Simona,F,1997-10-05,2023-03-04,10,Programator,Junior,București,Full-time,"6,250",Activ,,,simona.tudor443@technova.ro,IT,28,2.8,1–3 ani,0
+1264,Matei,Adrian,M,1990-04-27,2025-05-31,40,Recruiter,Mid,București,Full-time,"6,000",Plecat,2025-10-28,Relocare,adrian.matei264@technova.ro,Resurse Umane,35,0.4,< 1 an,1
+1030,Surdu,Bogdan,M,1982-10-22,2023-02-26,60,Operator Call Center,Junior,Iași,Full-time,"3,000",Activ,,,bogdan.surdu030@technova.ro,Suport Clienți,43,2.8,1–3 ani,0
+1239,Neagu,Vlad,M,1988-04-21,2023-11-24,20,Agent Vânzări,Junior,Timișoara,Full-time,"4,200",Plecat,2024-12-01,Echilibru viață-muncă,vlad.neagu239@technova.ro,Vânzări,37,1,1–3 ani,1
+1251,Voicu,Sorin,M,1987-12-04,2024-11-16,70,Coordonator Logistică,Senior,Timișoara,Part-time,"7,850",Activ,,,sorin.voicu251@technova.ro,Operațiuni,38,1.1,1–3 ani,0
+1163,Marin,Roxana,F,1994-04-12,2020-01-06,30,Specialist Marketing,Mid,Cluj-Napoca,Full-time,"6,800",Activ,,,roxana.marin163@technova.ro,Marketing,31,6,> 5 ani,0
+1150,Dinu,George,M,1988-12-23,2023-04-30,40,Recruiter,Senior,București,Full-time,"8,650",Activ,,,george.dinu150@technova.ro,Resurse Umane,37,2.7,1–3 ani,0
+1372,Constantin,Irina,F,1981-01-15,2021-04-02,80,Consilier Juridic,Mid,Timișoara,Full-time,"8,100",Plecat,2023-04-25,Pensionare,irina.constantin372@technova.ro,Juridic,44,2.1,1–3 ani,1
+1368,Florea,Mihaela,F,1988-06-25,2016-03-13,40,Recruiter,Junior,București,Full-time,"4,000",Activ,,,mihaela.florea368@technova.ro,Resurse Umane,37,9.8,> 5 ani,0
+1095,Gheorghe,Andreea,F,1995-07-21,2020-02-07,70,Specialist Operațiuni,Junior,București,Full-time,"3,550",Plecat,2023-11-18,Relocare,andreea.gheorghe095@technova.ro,Operațiuni,30,3.8,3–5 ani,1
+1222,Stoica,Raluca,F,1995-05-16,2018-11-23,10,Programator,Mid,București,Full-time,"9,150",Plecat,2021-01-02,Echilibru viață-muncă,raluca.stoica222@technova.ro,IT,30,2.1,1–3 ani,1
+1086,Florea,Ioana,F,1987-09-22,2017-12-17,70,Coordonator Logistică,Mid,Timișoara,Full-time,"3,950",Activ,,,ioana.florea086@technova.ro,Operațiuni,38,8,> 5 ani,0
+1188,Dobre,Cătălin,M,2003-01-12,2025-03-27,70,Coordonator Logistică,Junior,Timișoara,Full-time,"3,950",Activ,,,catalin.dobre188@technova.ro,Operațiuni,22,0.8,< 1 an,0
+1090,Dobre,Larisa,F,1989-12-09,2017-02-13,60,Operator Call Center,Mid,Iași,Full-time,"4,150",Plecat,2019-01-11,Salariu mai bun în altă parte,larisa.dobre090@technova.ro,Suport Clienți,36,1.9,1–3 ani,1
+1315,Munteanu,Ioana,F,1979-11-13,2020-07-13,60,Specialist Suport,Senior,Iași,Full-time,"5,800",Activ,,,ioana.munteanu315@technova.ro,Suport Clienți,46,5.5,> 5 ani,0
+1035,Ciobanu,Andreea,F,1975-09-23,2024-12-28,70,Coordonator Logistică,Senior,Timișoara,Full-time,"7,250",Activ,,,andreea.ciobanu035@technova.ro,Operațiuni,50,1,1–3 ani,0
+1218,Gheorghe,Bogdan,M,1993-02-17,2018-08-24,70,Coordonator Logistică,Senior,București,Full-time,"7,400",Activ,,,bogdan.gheorghe218@technova.ro,Operațiuni,32,7.4,> 5 ani,0
+1073,Sandu,Florin,M,1988-04-14,2023-04-21,10,Analist IT,Senior,București,Part-time,"11,300",Activ,,,florin.sandu073@technova.ro,IT,37,2.7,1–3 ani,0
+1221,Florea,Alexandra,F,1980-04-10,2024-12-10,50,Analist Financiar,Mid,Iași,Full-time,"6,150",Activ,,,alexandra.florea221@technova.ro,Financiar,45,1.1,1–3 ani,0
+1299,Popa,Irina,F,1985-02-17,2020-09-20,30,Specialist Marketing,Junior,București,Full-time,"3,500",Activ,,,irina.popa299@technova.ro,Marketing,40,5.3,> 5 ani,0
+1450,Barbu,Irina,F,1978-10-19,2022-11-16,20,Manager Vânzări,Manager,București,Full-time,"11,100",Activ,,,irina.barbu450@technova.ro,Vânzări,47,3.1,3–5 ani,0
+1459,Popa,Alexandru,M,1987-11-23,2018-10-19,20,Key Account Manager,Junior,București,Full-time,"3,800",Plecat,2024-08-08,Relocare,alexandru.popa459@technova.ro,Vânzări,38,5.8,> 5 ani,1
+1013,Popa,Ion,M,1988-09-04,2021-05-15,10,Analist IT,Junior,Iași,Full-time,"6,500",Plecat,2022-11-06,Nespecificat,ion.popa013@technova.ro,IT,37,1.5,1–3 ani,1
+1199,Constantin,Andrei,M,1980-04-23,2017-10-31,60,Specialist Suport,Senior,Iași,Full-time,"5,550",Activ,,,andrei.constantin199@technova.ro,Suport Clienți,45,8.2,> 5 ani,0
+1214,Surdu,Diana,F,1989-08-06,2018-05-05,50,Contabil,Mid,Iași,Full-time,"7,500",Activ,,,diana.surdu214@technova.ro,Financiar,36,7.7,> 5 ani,0
+1432,Popescu,Stefan,M,1985-04-21,2021-08-29,30,Content Creator,Junior,Cluj-Napoca,Full-time,"3,800",Activ,,,stefan.popescu432@technova.ro,Marketing,40,4.3,3–5 ani,0
+1235,Tudor,Stefan,M,1976-09-03,2021-04-10,60,Operator Call Center,Mid,Iași,Full-time,"4,600",Activ,,,stefan.tudor235@technova.ro,Suport Clienți,49,4.7,3–5 ani,0
+1412,Cozma,Stefan,M,1983-07-22,2016-10-13,10,Manager IT,Manager,București,Part-time,"16,400",Activ,,,stefan.cozma412@technova.ro,IT,42,9.2,> 5 ani,0
+1425,Surdu,Ioana,F,1979-08-02,2018-07-13,20,Agent Vânzări,Mid,București,Full-time,"5,050",Plecat,2022-06-15,Echilibru viață-muncă,ioana.surdu425@technova.ro,Vânzări,46,3.9,3–5 ani,1
+1442,Ionescu,Maria,F,1992-12-27,2024-09-02,50,Analist Financiar,Senior,Iași,Full-time,"10,100",Activ,,,maria.ionescu442@technova.ro,Financiar,33,1.3,1–3 ani,0
+1097,Ionescu,Vlad,M,1993-08-27,2017-11-11,70,Coordonator Logistică,Junior,Timișoara,Full-time,"3,100",Plecat,2020-05-22,Salariu mai bun în altă parte,vlad.ionescu097@technova.ro,Operațiuni,32,2.5,1–3 ani,1
+1311,Neagu,Ion,M,1990-07-14,2023-08-08,40,Specialist HR,Mid,București,Full-time,"6,300",Activ,,,ion.neagu311@technova.ro,Resurse Umane,35,2.4,1–3 ani,0
+1298,Barbu,Florin,M,1979-08-21,2021-07-31,20,Key Account Manager,Mid,Timișoara,Full-time,"5,050",Plecat,2023-01-23,Relocare,florin.barbu298@technova.ro,Vânzări,46,1.5,1–3 ani,1
+1064,Oprea,Alexandra,F,1982-10-05,2025-07-17,60,Operator Call Center,Mid,București,Full-time,"4,350",Plecat,2025-11-08,Lipsa oportunităților de promovare,alexandra.oprea064@technova.ro,Suport Clienți,43,0.3,< 1 an,1
+1223,Rusu,Cristina,F,1992-03-22,2019-06-30,60,Operator Call Center,Senior,Iași,Full-time,"4,850",Plecat,2020-11-27,Echilibru viață-muncă,cristina.rusu223@technova.ro,Suport Clienți,33,1.4,1–3 ani,1
+1096,Ionescu,Cristian,M,1995-01-24,2017-07-28,10,Programator,Junior,București,Part-time,"6,400",Activ,,,,IT,30,8.4,> 5 ani,0
+1014,Constantin,Ion,M,1999-12-18,2023-11-01,70,Specialist Operațiuni,Junior,Timișoara,Part-time,"3,600",Activ,,,ion.constantin014@technova.ro,Operațiuni,26,2.2,1–3 ani,0
+1018,Ene,Raluca,F,1996-07-26,2020-03-15,60,Operator Call Center,Junior,Iași,Full-time,"2,700",Plecat,2025-10-11,Salariu mai bun în altă parte,raluca.ene018@technova.ro,Suport Clienți,29,5.6,> 5 ani,1
+1356,Neagu,Larisa,F,1984-01-11,2018-05-26,60,Operator Call Center,Mid,Iași,Full-time,"3,700",Activ,,,larisa.neagu356@technova.ro,Suport Clienți,41,7.6,> 5 ani,0
+1247,Popescu,Denisa,F,1991-09-06,2023-05-31,70,Coordonator Logistică,Mid,Timișoara,Full-time,"4,650",Activ,,,denisa.popescu247@technova.ro,Operațiuni,34,2.6,1–3 ani,0
+1382,Moldovan,Bogdan,M,1996-06-17,2024-03-28,50,Contabil,Junior,Iași,Full-time,"4,800",Activ,,,bogdan.moldovan382@technova.ro,Financiar,29,1.8,1–3 ani,0
+1208,Moldovan,Alexandru,M,1992-05-14,2021-01-02,60,Specialist Suport,Mid,Timișoara,Full-time,"4,900",Activ,,,alexandru.moldovan208@technova.ro,Suport Clienți,33,5,> 5 ani,0
+1091,Cozma,Daniel,M,1989-02-20,2024-07-29,20,Agent Vânzări,Mid,București,Part-time,"5,850",Activ,,,daniel.cozma091@technova.ro,Vânzări,36,1.4,1–3 ani,0
+1308,Moldovan,Oana,F,1984-07-19,2017-02-25,10,Analist IT,Mid,București,Full-time,"9,150",Activ,,,oana.moldovan308@technova.ro,IT,41,8.8,> 5 ani,0
+1324,Popescu,Ana,F,1998-11-10,2022-12-23,80,Consilier Juridic,Mid,București,Full-time,"6,600",Plecat,2025-01-05,Lipsa oportunităților de promovare,ana.popescu324@technova.ro,Juridic,27,2,1–3 ani,1
+1354,Neagu,Ioana,F,1987-06-02,2021-09-15,40,Recruiter,Junior,București,Full-time,"4,400",Activ,,,ioana.neagu354@technova.ro,Resurse Umane,38,4.3,3–5 ani,0
+1040,Preda,Ioana,F,1985-04-07,2022-04-12,60,Operator Call Center,Mid,Iași,Full-time,"4,500",Activ,,,ioana.preda040@technova.ro,Suport Clienți,40,3.7,3–5 ani,0
+1087,Moldovan,Elena,F,1979-12-18,2022-10-16,10,Programator,Mid,Timișoara,Full-time,"8,250",Activ,,,elena.moldovan087@technova.ro,IT,46,3.2,3–5 ani,0
+1182,Stan,Sorin,M,1997-08-10,2017-11-28,20,Key Account Manager,Junior,București,Full-time,"3,550",Activ,,,sorin.stan182@technova.ro,Vânzări,28,8.1,> 5 ani,0
+1449,Lungu,Daniel,M,1985-04-07,2024-02-20,20,Key Account Manager,Senior,București,Full-time,"6,700",Activ,,,daniel.lungu449@technova.ro,Vânzări,40,1.9,1–3 ani,0
+1146,Munteanu,Denisa,F,1999-10-13,2021-11-27,60,Operator Call Center,Mid,Iași,Full-time,"4,000",Plecat,2025-05-27,Relația cu managerul,denisa.munteanu146@technova.ro,Suport Clienți,26,3.5,3–5 ani,1
+1159,Munteanu,Oana,F,1992-11-15,2016-09-22,60,Specialist Suport,Senior,Iași,Full-time,"5,850",Plecat,2021-03-27,Salariu mai bun în altă parte,oana.munteanu159@technova.ro,Suport Clienți,33,4.5,3–5 ani,1
+1472,Preda,Denisa,F,1983-08-23,2020-10-05,60,Operator Call Center,Senior,Iași,Full-time,"6,400",Activ,,,denisa.preda472@technova.ro,Suport Clienți,42,5.2,> 5 ani,0
+1360,Stoica,Sorin,M,1997-02-25,2018-09-01,20,Key Account Manager,Junior,București,Full-time,"3,750",Activ,,,sorin.stoica360@technova.ro,Vânzări,28,7.3,> 5 ani,0
+1460,Dinu,Ion,M,1972-08-17,2022-05-15,70,Specialist Operațiuni,Senior,Timișoara,Full-time,"7,550",Activ,,,ion.dinu460@technova.ro,Operațiuni,53,3.6,3–5 ani,0
+1344,Munteanu,Mihai,M,1985-10-28,2021-03-15,70,Specialist Operațiuni,Mid,Timișoara,Full-time,"5,125",Plecat,2025-03-20,Salariu mai bun în altă parte,mihai.munteanu344@technova.ro,Operațiuni,40,4,3–5 ani,1
+1201,Dinu,Denisa,F,1997-02-11,2019-08-23,10,Tester QA,Junior,București,Full-time,"5,750",Activ,,,denisa.dinu201@technova.ro,IT,28,6.4,> 5 ani,0
+1293,Surdu,Florin,M,1998-03-10,2018-05-22,10,Tester QA,Junior,Timișoara,Full-time,"5,450",Activ,,,florin.surdu293@technova.ro,IT,27,7.6,> 5 ani,0
+1072,Popa,Vlad,M,1996-05-11,2016-08-27,70,Coordonator Logistică,Mid,Timișoara,Full-time,"5,350",Activ,,,vlad.popa072@technova.ro,Operațiuni,29,9.3,> 5 ani,0
+1375,Marin,Alexandra,F,1989-08-08,2024-09-19,60,Specialist Suport,Junior,Iași,Full-time,"2,550",Plecat,2025-11-04,Salariu mai bun în altă parte,,Suport Clienți,36,1.1,1–3 ani,1
+1409,Cozma,Mihaela,F,1973-03-26,2017-07-17,70,Manager Operațiuni,Manager,Timișoara,Full-time,"8,700",Activ,,,mihaela.cozma409@technova.ro,Operațiuni,52,8.5,> 5 ani,0
+1357,Matei,Ioana,F,1978-08-16,2018-08-24,10,DevOps Engineer,Mid,București,Full-time,"8,750",Activ,,,ioana.matei357@technova.ro,IT,47,7.4,> 5 ani,0
+1386,Ene,Mihai,M,1981-02-13,2024-01-12,40,Manager Resurse Umane,Manager,Cluj-Napoca,Full-time,"11,200",Activ,,,mihai.ene386@technova.ro,Resurse Umane,44,2,1–3 ani,0
+1470,Preda,Ana,F,1980-02-20,2023-05-09,70,Specialist Operațiuni,Mid,Timișoara,Full-time,"5,125",Activ,,,ana.preda470@technova.ro,Operațiuni,45,2.6,1–3 ani,0
+1456,Tudor,Vlad,M,1976-01-18,2024-02-06,30,Content Creator,Mid,Cluj-Napoca,Full-time,"5,550",Activ,,,vlad.tudor456@technova.ro,Marketing,49,1.9,1–3 ani,0
+1421,Dumitru,Cristian,M,1994-12-19,2022-07-17,10,Analist IT,Senior,București,Full-time,"14,650",Activ,,,cristian.dumitru421@technova.ro,IT,31,3.5,3–5 ani,0
+1134,Oprea,Stefan,M,1993-12-15,2018-06-20,20,Agent Vânzări,Junior,București,Full-time,"4,950",Activ,,,stefan.oprea134@technova.ro,Vânzări,32,7.5,> 5 ani,0
+1061,Sandu,Stefan,M,1985-11-15,2020-03-06,20,Key Account Manager,Senior,București,Full-time,"8,850",Plecat,2021-11-16,Echilibru viață-muncă,stefan.sandu061@technova.ro,Vânzări,40,1.7,1–3 ani,1
+1370,Cozma,Sorin,M,1972-12-07,2022-04-10,10,DevOps Engineer,Senior,București,Full-time,"12,700",Activ,,,sorin.cozma370@technova.ro,IT,53,3.7,3–5 ani,0
+1471,Voicu,Mihaela,F,1983-10-21,2020-01-05,30,Content Creator,Mid,Iași,Full-time,"5,700",Activ,,,mihaela.voicu471@technova.ro,Marketing,42,6,> 5 ani,0
+1101,Marin,Bogdan,M,1996-05-08,2021-02-02,20,Agent Vânzări,Junior,București,Full-time,"4,200",Plecat,2021-07-28,Nespecificat,bogdan.marin101@technova.ro,Vânzări,29,0.5,< 1 an,1
+1020,Popa,Adrian,M,1985-03-10,2024-01-15,10,Tester QA,Senior,Cluj-Napoca,Full-time,"11,650",Activ,,,adrian.popa020@technova.ro,IT,40,2,1–3 ani,0
+1378,Popescu,Roxana,F,1993-06-17,2017-08-01,70,Specialist Operațiuni,Mid,București,Full-time,"5,300",Activ,,,roxana.popescu378@technova.ro,Operațiuni,32,8.4,> 5 ani,0
+1455,Tudor,Simona,F,1990-07-13,2020-08-11,50,Contabil,Junior,Iași,Full-time,"4,900",Activ,,,simona.tudor455@technova.ro,Financiar,35,5.4,> 5 ani,0
+1265,Rusu,Cristina,F,1992-03-28,2019-04-13,40,Specialist HR,Junior,București,Full-time,"3,450",Activ,,,,Resurse Umane,33,6.7,> 5 ani,0
+1277,Nistor,Ana,F,1976-02-16,2016-12-22,40,Recruiter,Mid,București,Full-time,"5,500",Plecat,2021-09-15,Echilibru viață-muncă,ana.nistor277@technova.ro,Resurse Umane,49,4.7,3–5 ani,1
+1009,Preda,Andrei,M,1974-04-21,2018-07-21,20,Manager Vânzări,Manager,București,Full-time,"9,450",Plecat,2023-12-29,Relația cu managerul,andrei.preda009@technova.ro,Vânzări,51,5.4,> 5 ani,1
+1310,Munteanu,Oana,F,1987-10-24,2017-05-29,30,Content Creator,Junior,București,Full-time,"3,950",Plecat,2018-09-25,Echilibru viață-muncă,oana.munteanu310@technova.ro,Marketing,38,1.3,1–3 ani,1
+1284,Matei,Cristina,F,1978-10-10,2023-11-29,10,Tester QA,Senior,București,Full-time,"13,850",Activ,,,cristina.matei284@technova.ro,IT,47,2.1,1–3 ani,0
+1465,Lungu,Adrian,M,1989-02-08,2019-01-06,20,Key Account Manager,Senior,Timișoara,Part-time,"7,800",Activ,,,adrian.lungu465@technova.ro,Vânzări,36,7,> 5 ani,0
+1093,Ciobanu,Simona,F,1973-05-12,2024-01-24,60,Specialist Suport,Senior,București,Full-time,"6,800",Plecat,2024-11-07,Nespecificat,simona.ciobanu093@technova.ro,Suport Clienți,52,0.8,< 1 an,1
+1253,Toma,Daniel,M,1985-09-23,2022-02-16,30,Specialist Marketing,Junior,Cluj-Napoca,Full-time,"4,050",Plecat,2023-05-10,Salariu mai bun în altă parte,daniel.toma253@technova.ro,Marketing,40,1.2,1–3 ani,1
+1033,Moldovan,Cristian,M,1972-09-08,2016-06-05,10,Manager IT,Manager,București,Full-time,"17,900",Plecat,2018-12-19,Salariu mai bun în altă parte,cristian.moldovan033@technova.ro,IT,53,2.5,1–3 ani,1
+1136,Popescu,Oana,F,1992-07-28,2020-04-10,60,Operator Call Center,Senior,București,Full-time,"6,200",Activ,,,oana.popescu136@technova.ro,Suport Clienți,33,5.7,> 5 ani,0
+1023,Constantin,Radu,M,1996-11-07,2020-10-11,70,Specialist Operațiuni,Junior,Timișoara,Full-time,"4,400",Activ,,,radu.constantin023@technova.ro,Operațiuni,29,5.2,> 5 ani,0
+1063,Neagu,Cătălin,M,1979-06-01,2022-08-30,50,Analist Financiar,Mid,București,Full-time,"7,450",Activ,,,catalin.neagu063@technova.ro,Financiar,46,3.3,3–5 ani,0
+1476,Neagu,Cristina,F,2000-04-19,2021-07-11,20,Agent Vânzări,Mid,București,Full-time,"4,400",Plecat,2024-05-03,Salariu mai bun în altă parte,cristina.neagu476@technova.ro,Vânzări,25,2.8,1–3 ani,1
+1216,Matei,Raluca,F,1999-04-24,2023-05-23,50,Contabil,Junior,Iași,Full-time,"4,600",Activ,,,raluca.matei216@technova.ro,Financiar,26,2.6,1–3 ani,0
+1404,Moldovan,Bogdan,M,1996-08-18,2017-12-07,10,Programator,Junior,București,Full-time,"5,750",Activ,,,bogdan.moldovan404@technova.ro,IT,29,8.1,> 5 ani,0
+1258,Rusu,Diana,F,1977-10-08,2022-01-21,10,DevOps Engineer,Mid,București,Full-time,"8,600",Activ,,,diana.rusu258@technova.ro,IT,48,3.9,3–5 ani,0
+1053,Constantin,Andreea,F,1978-08-19,2022-10-13,10,Tester QA,Mid,București,Full-time,"7,800",Activ,,,andreea.constantin053@technova.ro,IT,47,3.2,3–5 ani,0
+1405,Oprea,Irina,F,1976-05-16,2017-08-19,20,Key Account Manager,Mid,Iași,Full-time,"4,750",Activ,,,irina.oprea405@technova.ro,Vânzări,49,8.4,> 5 ani,0
+1174,Florea,Alexandru,M,1978-10-23,2016-04-30,60,Specialist Suport,Senior,Iași,Full-time,"5,450",Activ,,,alexandru.florea174@technova.ro,Suport Clienți,47,9.7,> 5 ani,0
+1036,Dinu,Mihaela,F,1994-02-20,2016-02-25,60,Specialist Suport,Junior,București,Full-time,"2,825",Activ,,,mihaela.dinu036@technova.ro,Suport Clienți,31,9.8,> 5 ani,0
+1179,Stoica,Mihaela,F,1982-04-25,2023-05-28,10,Manager IT,Manager,București,Full-time,"17,650",Activ,,,mihaela.stoica179@technova.ro,IT,43,2.6,1–3 ani,0
+1168,Sandu,Radu,M,1993-05-11,2017-12-08,10,Programator,Junior,București,Full-time,"6,750",Plecat,2020-07-21,Nespecificat,radu.sandu168@technova.ro,IT,32,2.6,1–3 ani,1
+1227,Toma,Ion,M,1972-01-17,2023-10-31,60,Manager Suport Clienți,Manager,Iași,Full-time,"7,950",Activ,,,ion.toma227@technova.ro,Suport Clienți,53,2.2,1–3 ani,0
+1121,Popa,Elena,F,1974-06-13,2022-04-13,70,Specialist Operațiuni,Senior,București,Full-time,"9,000",Activ,,,elena.popa121@technova.ro,Operațiuni,51,3.7,3–5 ani,0
+1276,Popa,Adrian,M,1987-06-19,2016-09-27,10,Tester QA,Junior,București,Full-time,"6,800",Activ,,,adrian.popa276@technova.ro,IT,38,9.3,> 5 ani,0
+1045,Neagu,Robert,M,1999-03-09,2022-02-15,70,Coordonator Logistică,Junior,Timișoara,Full-time,"3,450",Activ,,,robert.neagu045@technova.ro,Operațiuni,26,3.9,3–5 ani,0
+1301,Popescu,Diana,F,1992-10-27,2023-02-12,30,Specialist Marketing,Senior,Iași,Full-time,"8,500",Activ,,,diana.popescu301@technova.ro,Marketing,33,2.9,1–3 ani,0
+1325,Rusu,Cristina,F,1996-01-14,2021-06-29,20,Agent Vânzări,Mid,București,Full-time,"5,200",Activ,,,cristina.rusu325@technova.ro,Vânzări,29,4.5,3–5 ani,0
+1077,Sandu,Ion,M,1994-11-20,2017-10-17,30,Content Creator,Mid,București,Full-time,"6,700",Plecat,2018-05-01,Echilibru viață-muncă,ion.sandu077@technova.ro,Marketing,31,0.5,< 1 an,1
+1209,Neagu,Stefan,M,1979-12-04,2023-10-06,60,Specialist Suport,Mid,Iași,Full-time,"4,450",Plecat,2025-03-16,Lipsa oportunităților de promovare,stefan.neagu209@technova.ro,Suport Clienți,46,1.4,1–3 ani,1
+1369,Ciobanu,Irina,F,2001-09-13,2025-07-01,20,Agent Vânzări,Junior,București,Full-time,"3,350",Activ,,,irina.ciobanu369@technova.ro,Vânzări,24,0.5,< 1 an,0
+1213,Ciobanu,Simona,F,1997-06-20,2025-01-11,20,Key Account Manager,Mid,București,Full-time,"4,350",Activ,,,simona.ciobanu213@technova.ro,Vânzări,28,1,1–3 ani,0
+1268,Moldovan,Andreea,F,1986-06-08,2020-08-08,10,Manager IT,Manager,București,Part-time,"17,600",Activ,,,andreea.moldovan268@technova.ro,IT,39,5.4,> 5 ani,0
+1312,Tudor,Bianca,F,1999-12-25,2022-04-29,60,Specialist Suport,Mid,București,Full-time,"3,550",Plecat,2024-04-24,Lipsa oportunităților de promovare,bianca.tudor312@technova.ro,Suport Clienți,26,2,1–3 ani,1
+1217,Preda,Mihai,M,1986-06-08,2020-07-12,50,Contabil,Mid,Iași,Full-time,"6,525",Activ,,,mihai.preda217@technova.ro,Financiar,39,5.5,> 5 ani,0
+1428,Voicu,Andreea,F,1980-03-11,2025-05-24,80,Consilier Juridic,Junior,București,Full-time,"4,650",Activ,,,andreea.voicu428@technova.ro,Juridic,45,0.6,< 1 an,0
+1010,Toma,Radu,M,1979-08-13,2020-10-10,70,Specialist Operațiuni,Senior,Timișoara,Full-time,"7,550",Plecat,2021-11-30,Lipsa oportunităților de promovare,radu.toma010@technova.ro,Operațiuni,46,1.1,1–3 ani,1
+1398,Voicu,Alexandru,M,2001-03-14,2023-09-29,60,Specialist Suport,Junior,București,Full-time,"2,900",Plecat,2025-12-23,Salariu mai bun în altă parte,alexandru.voicu398@technova.ro,Suport Clienți,24,2.2,1–3 ani,1
+1416,Florea,Alexandra,F,1993-05-25,2019-03-18,10,Analist IT,Junior,București,Full-time,"6,100",Activ,,,alexandra.florea416@technova.ro,IT,32,6.8,> 5 ani,0
+1286,Tudor,Maria,F,1985-11-24,2023-06-02,50,Analist Financiar,Mid,Iași,Full-time,"6,650",Activ,,,maria.tudor286@technova.ro,Financiar,40,2.6,1–3 ani,0
+1296,Dumitru,Irina,F,1995-05-08,2023-04-29,10,Analist IT,Mid,București,Full-time,"10,200",Activ,,,irina.dumitru296@technova.ro,IT,30,2.7,1–3 ani,0
+1105,Ciobanu,Mihaela,F,1996-01-11,2025-05-27,50,Analist Financiar,Junior,Iași,Full-time,"5,400",Activ,,,mihaela.ciobanu105@technova.ro,Financiar,29,0.6,< 1 an,0
+1313,Sandu,Adrian,M,1984-09-13,2023-10-18,10,Analist IT,Mid,București,Full-time,"7,800",Activ,,,adrian.sandu313@technova.ro,IT,41,2.2,1–3 ani,0
+1427,Preda,Vlad,M,1977-11-17,2020-10-02,70,Manager Operațiuni,Manager,Timișoara,Full-time,"11,500",Activ,,,vlad.preda427@technova.ro,Operațiuni,48,5.2,> 5 ani,0
+1049,Dinu,Maria,F,1978-04-27,2020-12-28,60,Specialist Suport,Senior,București,Part-time,"5,750",Activ,,,maria.dinu049@technova.ro,Suport Clienți,47,5,> 5 ani,0
+1092,Marin,Cristina,F,1994-09-21,2017-01-10,80,Consilier Juridic,Mid,București,Full-time,"8,500",Activ,,,cristina.marin092@technova.ro,Juridic,31,9,> 5 ani,0
+1183,Nistor,Cătălin,M,1995-09-13,2019-05-29,70,Specialist Operațiuni,Senior,București,Full-time,"8,150",Activ,,,catalin.nistor183@technova.ro,Operațiuni,30,6.6,> 5 ani,0
+1316,Dumitru,Bianca,F,1982-04-02,2024-12-17,50,Analist Financiar,Mid,Iași,Full-time,"6,550",Activ,,,bianca.dumitru316@technova.ro,Financiar,43,1,1–3 ani,0
+1466,Dumitru,George,M,1979-10-09,2022-12-22,20,Agent Vânzări,Mid,București,Full-time,"5,750",Activ,,,george.dumitru466@technova.ro,Vânzări,46,3,3–5 ani,0
+1173,Matei,Mihai,M,1986-02-22,2017-08-24,70,Specialist Operațiuni,Senior,Timișoara,Full-time,"8,150",Activ,,,mihai.matei173@technova.ro,Operațiuni,39,8.4,> 5 ani,0
+1233,Dumitru,Larisa,F,1988-01-22,2021-05-25,30,Manager Marketing,Manager,Cluj-Napoca,Full-time,"8,950",Activ,,,larisa.dumitru233@technova.ro,Marketing,37,4.6,3–5 ani,0
+1462,Nistor,Robert,M,1987-11-05,2017-01-08,50,Analist Financiar,Mid,Iași,Full-time,"7,100",Activ,,,robert.nistor462@technova.ro,Financiar,38,9,> 5 ani,0
+1037,Cozma,Oana,F,1979-06-16,2017-10-11,10,Manager IT,Manager,București,Full-time,"16,250",Activ,,,oana.cozma037@technova.ro,IT,46,8.2,> 5 ani,0
+1157,Dinu,Ana,F,1993-02-12,2021-07-29,10,DevOps Engineer,Junior,Timișoara,Part-time,"5,850",Activ,,,ana.dinu157@technova.ro,IT,32,4.4,3–5 ani,0
+1003,Sandu,Ion,M,1991-02-21,2020-07-10,10,Programator,Junior,București,Full-time,"7,650",Plecat,2024-05-04,Lipsa oportunităților de promovare,ion.sandu003@technova.ro,IT,34,3.8,3–5 ani,1
+1243,Neagu,Ionuț,M,1986-01-14,2024-05-27,20,Key Account Manager,Mid,București,Full-time,"5,350",Activ,,,ionut.neagu243@technova.ro,Vânzări,39,1.6,1–3 ani,0
+1309,Dobre,Alexandru,M,1981-08-18,2017-07-11,10,DevOps Engineer,Mid,București,Full-time,"9,850",Activ,,,alexandru.dobre309@technova.ro,IT,44,8.5,> 5 ani,0
+1142,Matei,Mihaela,F,1998-12-05,2021-08-10,20,Agent Vânzări,Junior,București,Part-time,"3,750",Plecat,2025-08-05,Salariu mai bun în altă parte,mihaela.matei142@technova.ro,Vânzări,27,4,3–5 ani,1
+1224,Oprea,Maria,F,1986-07-13,2022-10-08,70,Specialist Operațiuni,Mid,Timișoara,Full-time,"4,600",Activ,,,maria.oprea224@technova.ro,Operațiuni,39,3.2,3–5 ani,0
+1353,Lungu,Bianca,F,1977-07-09,2024-04-27,70,Specialist Operațiuni,Mid,București,Full-time,"4,150",Activ,,,bianca.lungu353@technova.ro,Operațiuni,48,1.7,1–3 ani,0
+1184,Lungu,Irina,F,1977-08-13,2024-06-04,60,Specialist Suport,Mid,București,Full-time,"3,750",Activ,,,irina.lungu184@technova.ro,Suport Clienți,48,1.6,1–3 ani,0
+1332,Matei,Ionuț,M,1982-11-13,2016-12-23,10,Analist IT,Senior,București,Full-time,"13,400",Activ,,,ionut.matei332@technova.ro,IT,43,9,> 5 ani,0
+1435,Stan,Mihai,M,1995-10-01,2020-02-23,80,Consilier Juridic,Senior,București,Full-time,"11,750",Activ,,,mihai.stan435@technova.ro,Juridic,30,5.9,> 5 ani,0
+1418,Sandu,Ana,F,1999-04-28,2021-09-17,20,Key Account Manager,Mid,București,Full-time,"4,750",Plecat,2025-12-18,Relocare,ana.sandu418@technova.ro,Vânzări,26,4.3,3–5 ani,1
+1161,Tudor,Cristian,M,1988-11-10,2022-07-03,10,Analist IT,Junior,București,Full-time,"5,750",Activ,,,cristian.tudor161@technova.ro,IT,37,3.5,3–5 ani,0
+1337,Rusu,Maria,F,1992-06-14,2018-06-03,30,Content Creator,Mid,Cluj-Napoca,Full-time,"6,150",Plecat,2022-02-21,Relația cu managerul,maria.rusu337@technova.ro,Marketing,33,3.7,3–5 ani,1
+1401,Surdu,Daniel,M,1983-07-07,2022-05-15,60,Specialist Suport,Mid,Iași,Full-time,"3,650",Activ,,,daniel.surdu401@technova.ro,Suport Clienți,42,3.6,3–5 ani,0
+1220,Sandu,Larisa,F,1978-04-07,2020-12-02,60,Operator Call Center,Mid,Timișoara,Full-time,"3,850",Plecat,2022-10-10,Pensionare,larisa.sandu220@technova.ro,Suport Clienți,47,1.9,1–3 ani,1
+1381,Lungu,Mihaela,F,1983-05-08,2020-04-22,80,Consilier Juridic,Junior,București,Part-time,"5,900",Activ,,,mihaela.lungu381@technova.ro,Juridic,42,5.7,> 5 ani,0
+1236,Moldovan,Cătălin,M,1993-12-17,2019-09-04,80,Consilier Juridic,Mid,București,Full-time,"8,600",Activ,,,catalin.moldovan236@technova.ro,Juridic,32,6.3,> 5 ani,0
+1439,Barbu,Sorin,M,1994-02-27,2019-03-28,60,Operator Call Center,Mid,Iași,Part-time,"4,350",Plecat,2025-06-29,Relația cu managerul,sorin.barbu439@technova.ro,Suport Clienți,31,6.3,> 5 ani,1
+1118,Rusu,Diana,F,1994-08-27,2019-12-12,10,Tester QA,Junior,București,Full-time,"6,150",Activ,,,diana.rusu118@technova.ro,IT,31,6.1,> 5 ani,0
+1342,Toma,Alexandra,F,1990-02-06,2021-06-05,30,Specialist Marketing,Junior,Cluj-Napoca,Full-time,"3,800",Plecat,2024-11-26,Salariu mai bun în altă parte,alexandra.toma342@technova.ro,Marketing,35,3.5,3–5 ani,1
+1002,Matei,Bogdan,M,1995-02-16,2020-05-13,70,Coordonator Logistică,Mid,Cluj-Napoca,Full-time,"4,700",Activ,,,bogdan.matei002@technova.ro,Operațiuni,30,5.6,> 5 ani,0
+1114,Popescu,Gabriela,F,1989-02-19,2018-10-09,10,Manager IT,Manager,Timișoara,Full-time,"18,200",Activ,,,gabriela.popescu114@technova.ro,IT,36,7.2,> 5 ani,0
+1451,Dumitru,Oana,F,1993-02-08,2019-03-24,20,Agent Vânzări,Mid,București,Full-time,"6,550",Activ,,,oana.dumitru451@technova.ro,Vânzări,32,6.8,> 5 ani,0
+1175,Toma,Alexandra,F,1979-03-08,2016-06-19,30,Content Creator,Mid,Cluj-Napoca,Full-time,"5,950",Activ,,,alexandra.toma175@technova.ro,Marketing,46,9.5,> 5 ani,0
+1254,Sandu,Roxana,F,1990-06-07,2022-09-04,10,Manager IT,Manager,București,Full-time,"15,450",Activ,,,roxana.sandu254@technova.ro,IT,35,3.3,3–5 ani,0
+1433,Ene,Mihaela,F,1989-11-20,2019-04-17,20,Key Account Manager,Junior,București,Full-time,"3,750",Plecat,2023-04-20,Echilibru viață-muncă,mihaela.ene433@technova.ro,Vânzări,36,4,3–5 ani,1
+1185,Florea,Denisa,F,1987-04-06,2022-10-30,10,Tester QA,Junior,Iași,Full-time,"5,450",Activ,,,denisa.florea185@technova.ro,IT,38,3.2,3–5 ani,0
+1166,Florea,Sorin,M,1988-01-14,2020-12-19,30,Content Creator,Senior,Cluj-Napoca,Full-time,"10,250",Activ,,,sorin.florea166@technova.ro,Marketing,37,5,> 5 ani,0
+1373,Toma,Marius,M,1995-06-18,2016-02-14,10,DevOps Engineer,Junior,Cluj-Napoca,Full-time,"6,000",Plecat,2023-04-13,Pensionare,marius.toma373@technova.ro,IT,30,7.2,> 5 ani,1
+1275,Stan,Elena,F,1977-12-15,2022-08-22,10,Tester QA,Mid,București,Part-time,"8,600",Activ,,,elena.stan275@technova.ro,IT,48,3.4,3–5 ani,0
+1193,Toma,Daniel,M,1991-06-05,2016-12-12,60,Operator Call Center,Senior,Iași,Full-time,"6,050",Activ,,,daniel.toma193@technova.ro,Suport Clienți,34,9.1,> 5 ani,0
+1001,Popescu,Ana,F,1994-09-06,2020-04-02,60,Specialist Suport,Senior,Iași,Full-time,"5,150",Activ,,,ana.popescu001@technova.ro,Suport Clienți,31,5.7,> 5 ani,0
+1055,Dobre,Bianca,F,1978-03-14,2020-10-21,50,Contabil,Mid,Iași,Full-time,"6,500",Activ,,,bianca.dobre055@technova.ro,Financiar,47,5.2,> 5 ani,0
+1376,Matei,Ana,F,1996-03-28,2019-04-19,10,Analist IT,Mid,București,Part-time,"7,400",Activ,,,ana.matei376@technova.ro,IT,29,6.7,> 5 ani,0
+1029,Surdu,Bianca,F,1973-10-15,2021-01-24,30,Specialist Marketing,Senior,București,Full-time,"6,700",Activ,,,bianca.surdu029@technova.ro,Marketing,52,4.9,3–5 ani,0
+1207,Ene,Daniel,M,1977-04-08,2023-05-08,40,Specialist HR,Mid,București,Full-time,"6,500",Activ,,,daniel.ene207@technova.ro,Resurse Umane,48,2.6,1–3 ani,0
+1384,Cozma,Ion,M,1995-01-07,2021-09-15,10,Programator,Mid,București,Full-time,"9,350",Activ,,,ion.cozma384@technova.ro,IT,30,4.3,3–5 ani,0
+1479,Tudor,Daniel,M,1999-03-24,2025-04-23,70,Specialist Operațiuni,Mid,Timișoara,Full-time,"5,000",Activ,,,daniel.tudor479@technova.ro,Operațiuni,26,0.7,< 1 an,0
+1050,Preda,Cătălin,M,1972-09-18,2018-10-17,80,Consilier Juridic,Senior,București,Part-time,"9,700",Activ,,,catalin.preda050@technova.ro,Juridic,53,7.2,> 5 ani,0
+1351,Neagu,Oana,F,1981-04-02,2022-04-09,70,Coordonator Logistică,Junior,București,Full-time,"4,050",Activ,,,oana.neagu351@technova.ro,Operațiuni,44,3.7,3–5 ani,0
+1021,Marin,Ana,F,1986-11-23,2025-08-21,20,Key Account Manager,Junior,București,Full-time,"4,800",Plecat,2025-12-27,Echilibru viață-muncă,ana.marin021@technova.ro,Vânzări,39,0.4,< 1 an,1
+1294,Ionescu,Ioana,F,1994-09-13,2018-05-18,80,Consilier Juridic,Mid,Cluj-Napoca,Full-time,"7,150",Activ,,,ioana.ionescu294@technova.ro,Juridic,31,7.6,> 5 ani,0
+1177,Moldovan,Andreea,F,1994-02-27,2019-01-25,70,Coordonator Logistică,Mid,Timișoara,Full-time,"6,400",Activ,,,andreea.moldovan177@technova.ro,Operațiuni,31,6.9,> 5 ani,0
+1336,Oprea,Bianca,F,1987-01-15,2022-02-24,60,Specialist Suport,Senior,Iași,Full-time,"5,800",Activ,,,,Suport Clienți,38,3.8,3–5 ani,0
+1380,Surdu,Larisa,F,1994-06-21,2023-01-26,60,Specialist Suport,Mid,Iași,Full-time,"4,400",Activ,,,larisa.surdu380@technova.ro,Suport Clienți,31,2.9,1–3 ani,0
+1034,Marin,Ionuț,M,1980-11-02,2018-10-19,10,Analist IT,Senior,București,Full-time,"12,900",Activ,,,ionut.marin034@technova.ro,IT,45,7.2,> 5 ani,0
+1172,Stan,Cristian,M,1989-01-07,2019-03-06,20,Agent Vânzări,Junior,Timișoara,Full-time,"3,900",Activ,,,cristian.stan172@technova.ro,Vânzări,36,6.8,> 5 ani,0
+1008,Florea,Mihaela,F,1988-06-05,2017-06-23,40,Recruiter,Mid,București,Full-time,"5,400",Activ,,,mihaela.florea008@technova.ro,Resurse Umane,37,8.5,> 5 ani,0
+1319,Gheorghe,Mihai,M,1983-10-17,2022-04-27,10,DevOps Engineer,Senior,București,Full-time,"12,950",Activ,,,mihai.gheorghe319@technova.ro,IT,42,3.7,3–5 ani,0
+1107,Florea,Adrian,M,1991-06-06,2023-03-16,10,DevOps Engineer,Senior,București,Full-time,"13,150",Activ,,,adrian.florea107@technova.ro,IT,34,2.8,1–3 ani,0
+1414,Lungu,Larisa,F,1980-05-05,2022-08-27,20,Key Account Manager,Mid,Timișoara,Full-time,"4,500",Activ,,,larisa.lungu414@technova.ro,Vânzări,45,3.3,3–5 ani,0
+1098,Barbu,Larisa,F,1994-10-03,2018-07-10,40,Specialist HR,Mid,București,Full-time,"5,200",Activ,,,larisa.barbu098@technova.ro,Resurse Umane,31,7.5,> 5 ani,0
+1111,Cozma,Raluca,F,1995-02-15,2017-10-29,10,Programator,Junior,Timișoara,Full-time,"6,300",Activ,,,raluca.cozma111@technova.ro,IT,30,8.2,> 5 ani,0
+1361,Ionescu,Maria,F,1978-08-10,2025-06-08,70,Specialist Operațiuni,Mid,Timișoara,Full-time,"4,450",Activ,,,maria.ionescu361@technova.ro,Operațiuni,47,0.6,< 1 an,0
+1070,Popa,Andrei,M,1982-08-21,2016-11-10,20,Agent Vânzări,Mid,București,Full-time,"5,700",Activ,,,andrei.popa070@technova.ro,Vânzări,43,9.1,> 5 ani,0
+1347,Ene,Cătălin,M,1996-12-10,2025-05-17,20,Key Account Manager,Senior,București,Full-time,"9,850",Plecat,2025-11-02,Relația cu managerul,catalin.ene347@technova.ro,Vânzări,29,0.5,< 1 an,1
+1436,Dumitru,Cătălin,M,1991-10-20,2017-12-15,10,Programator,Senior,București,Full-time,"13,700",Plecat,2021-05-05,Echilibru viață-muncă,catalin.dumitru436@technova.ro,IT,34,3.4,3–5 ani,1
+1130,Ionescu,Andreea,F,1998-05-28,2025-04-22,70,Specialist Operațiuni,Junior,Timișoara,Full-time,"3,600",Activ,,,andreea.ionescu130@technova.ro,Operațiuni,27,0.7,< 1 an,0
+1317,Surdu,Cătălin,M,1974-07-16,2020-06-12,60,Operator Call Center,Senior,Iași,Full-time,"7,050",Activ,,,catalin.surdu317@technova.ro,Suport Clienți,51,5.6,> 5 ani,0
+1448,Toma,Robert,M,1993-11-26,2016-07-04,30,Content Creator,Mid,Cluj-Napoca,Full-time,"6,250",Activ,,,robert.toma448@technova.ro,Marketing,32,9.5,> 5 ani,0
+1259,Dumitru,Bogdan,M,1992-07-14,2017-11-21,20,Agent Vânzări,Junior,București,Full-time,"4,000",Activ,,,bogdan.dumitru259@technova.ro,Vânzări,33,8.1,> 5 ani,0
+1323,Cozma,Irina,F,1990-06-02,2022-04-26,40,Recruiter,Junior,București,Part-time,"3,400",Activ,,,irina.cozma323@technova.ro,Resurse Umane,35,3.7,3–5 ani,0
+1151,Lungu,Marius,M,1973-04-06,2019-11-24,60,Operator Call Center,Senior,București,Full-time,"6,500",Activ,,,marius.lungu151@technova.ro,Suport Clienți,52,6.1,> 5 ani,0
+1338,Neagu,Ionuț,M,1995-03-20,2019-11-04,70,Coordonator Logistică,Mid,Timișoara,Full-time,"5,100",Activ,,,ionut.neagu338@technova.ro,Operațiuni,30,6.2,> 5 ani,0
+1027,Florea,Cristina,F,1986-01-06,2017-09-17,60,Specialist Suport,Junior,București,Part-time,"3,050",Plecat,2022-03-01,Salariu mai bun în altă parte,cristina.florea027@technova.ro,Suport Clienți,39,4.5,3–5 ani,1
+1399,Ciobanu,Andrei,M,1992-11-07,2017-11-03,70,Coordonator Logistică,Mid,București,Full-time,"6,250",Activ,,,andrei.ciobanu399@technova.ro,Operațiuni,33,8.2,> 5 ani,0
+1424,Stan,Bogdan,M,1990-10-20,2019-03-05,70,Coordonator Logistică,Mid,Timișoara,Full-time,"5,200",Activ,,,bogdan.stan424@technova.ro,Operațiuni,35,6.8,> 5 ani,0
+1094,Tudor,Roxana,F,1991-06-24,2016-07-05,10,Analist IT,Junior,Iași,Full-time,"6,000",Activ,,,roxana.tudor094@technova.ro,IT,34,9.5,> 5 ani,0
+1429,Neagu,Diana,F,1977-10-28,2024-05-11,30,Specialist Marketing,Mid,Cluj-Napoca,Full-time,"5,250",Activ,,,diana.neagu429@technova.ro,Marketing,48,1.6,1–3 ani,0
+1149,Dumitru,Mihai,M,1997-02-27,2025-06-15,10,Analist IT,Mid,București,Part-time,"8,600",Activ,,,mihai.dumitru149@technova.ro,IT,28,0.5,< 1 an,0
+1423,Ionescu,Andrei,M,1996-05-16,2020-10-20,20,Key Account Manager,Junior,București,Full-time,"3,450",Plecat,2022-10-24,Salariu mai bun în altă parte,andrei.ionescu423@technova.ro,Vânzări,29,2,1–3 ani,1
+1120,Dobre,Cătălin,M,1999-09-17,2025-06-07,40,Recruiter,Mid,București,Full-time,"6,650",Activ,,,catalin.dobre120@technova.ro,Resurse Umane,26,0.6,< 1 an,0
+1406,Dumitru,Oana,F,1995-08-15,2017-12-18,60,Operator Call Center,Mid,București,Full-time,"3,500",Activ,,,oana.dumitru406@technova.ro,Suport Clienți,30,8,> 5 ani,0
+1139,Marin,Ana,F,1985-03-10,2018-06-02,70,Coordonator Logistică,Junior,Iași,Full-time,"3,900",Activ,,,ana.marin139@technova.ro,Operațiuni,40,7.6,> 5 ani,0
+1170,Surdu,Ioana,F,1997-09-12,2025-01-29,70,Coordonator Logistică,Mid,Timișoara,Full-time,"4,300",Activ,,,ioana.surdu170@technova.ro,Operațiuni,28,0.9,< 1 an,0
+1364,Matei,Andreea,F,1997-10-15,2023-06-01,60,Specialist Suport,Junior,Timișoara,Full-time,"2,750",Activ,,,andreea.matei364@technova.ro,Suport Clienți,28,2.6,1–3 ani,0
+1203,Dobre,Oana,F,1993-08-20,2017-12-01,70,Coordonator Logistică,Mid,București,Full-time,"5,450",Activ,,,oana.dobre203@technova.ro,Operațiuni,32,8.1,> 5 ani,0
+1148,Ene,Radu,M,1976-12-15,2020-10-13,70,Specialist Operațiuni,Mid,Timișoara,Full-time,"5,350",Activ,,,radu.ene148@technova.ro,Operațiuni,49,5.2,> 5 ani,0
+1278,Preda,Bogdan,M,1992-02-10,2022-05-21,20,Key Account Manager,Mid,Timișoara,Full-time,"5,000",Activ,,,bogdan.preda278@technova.ro,Vânzări,33,3.6,3–5 ani,0
+1257,Toma,George,M,1991-01-23,2016-12-06,60,Specialist Suport,Junior,Iași,Full-time,"3,350",Activ,,,,Suport Clienți,34,9.1,> 5 ani,0
+1457,Constantin,Florin,M,1996-12-12,2023-01-11,20,Agent Vânzări,Mid,București,Full-time,"4,300",Plecat,2023-10-08,Lipsa oportunităților de promovare,florin.constantin457@technova.ro,Vânzări,29,0.7,< 1 an,1
+1441,Rusu,Cătălin,M,1993-10-01,2017-04-02,10,Analist IT,Senior,București,Full-time,"10,550",Activ,,,catalin.rusu441@technova.ro,IT,32,8.7,> 5 ani,0
+1132,Gheorghe,Raluca,F,1994-07-12,2017-09-03,20,Agent Vânzări,Junior,Cluj-Napoca,Full-time,"3,200",Plecat,2019-11-19,Nespecificat,raluca.gheorghe132@technova.ro,Vânzări,31,2.2,1–3 ani,1
+1250,Moldovan,Ionuț,M,1997-03-04,2018-04-25,60,Specialist Suport,Junior,Iași,Part-time,"2,850",Activ,,,ionut.moldovan250@technova.ro,Suport Clienți,28,7.7,> 5 ani,0
+1153,Ionescu,Florin,M,1972-07-05,2018-03-17,30,Content Creator,Senior,Cluj-Napoca,Full-time,"9,300",Plecat,2018-08-12,Relația cu managerul,florin.ionescu153@technova.ro,Marketing,53,0.4,< 1 an,1
+1363,Constantin,George,M,1978-03-19,2022-05-06,40,Recruiter,Mid,București,Full-time,"4,500",Activ,,,george.constantin363@technova.ro,Resurse Umane,47,3.7,3–5 ani,0
